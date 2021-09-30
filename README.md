@@ -8,3 +8,11 @@
 ### Links
 * [osu! forums thread](https://osu.ppy.sh/community/forums/topics/1293207) 
 * [Google Drive **download**](https://drive.google.com/drive/folders/1NytOsVVuJoYG4d57GZcbkggR65EkP6S9?usp=sharing)
+
+# Previous skins
+## JesusOmega: Planets (With minor edits)
+### Screenshots
+(WIP)
+### Links
+* [Google Drive **download**](https://drive.google.com/file/d/1DJl9BhBlzVQgSHxloTI2LOVPFOPm7GAr/view?usp=sharing)
+* [Google Drive **download** (Varvalian and WhiteCat Voices)](https://drive.google.com/file/d/1Zt322Z6qJTgKwoPRx6-275lVxcy3ulj9/view?usp=sharing)
