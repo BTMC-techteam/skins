@@ -16,7 +16,7 @@
 ### Screenshots
 (WIP)
 ### Links
-* [**Download**](assets/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20-/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20-.osk?raw=true)
-* [**Download** (Varvalian and WhiteCat Voices)](assets/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20-/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20with%20other%20shit%20-.osk?raw=true)
 * [Google Drive](https://drive.google.com/file/d/1DJl9BhBlzVQgSHxloTI2LOVPFOPm7GAr/view?usp=sharing)
 * [Google Drive (Varvalian and WhiteCat Voices)](https://drive.google.com/file/d/1Zt322Z6qJTgKwoPRx6-275lVxcy3ulj9/view?usp=sharing)
+* [**Download**](assets/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20-/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20-.osk?raw=true)
+* [**Download** (Varvalian and WhiteCat Voices)](assets/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20-/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20with%20other%20shit%20-.osk?raw=true)
