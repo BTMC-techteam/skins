@@ -3,8 +3,25 @@
 ### Screenshots
 <details>
 <summary>BTMC (standard)</summary>
-<img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/2 - t4akLhn.png" title="BTMC: FREEDOM DiVE screenshot 1" alt="Skin screenshot 1">
-<img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/2 - t4akLhn.png" title="BTMC: FREEDOM DiVE screenshot 2" alt="Skin screenshot 1">
+<img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/1 - puWBKIQ.png" title="BTMC: FREEDOM DiVE screenshot 1" alt="Skin screenshot 1">
+<img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/2 - t4akLhn.png" title="BTMC: FREEDOM DiVE screenshot 2" alt="Skin screenshot 2">
+<img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/3 - cq13Mhf.png" title="BTMC: FREEDOM DiVE screenshot 3" alt="Skin screenshot 3">
+<img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/4 - 3Uze2zj.png" title="BTMC: FREEDOM DiVE screenshot 4" alt="Skin screenshot 4">
+<img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/5 - tiecTNH.png" title="BTMC: FREEDOM DiVE screenshot 5" alt="Skin screenshot 5">
+<img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/6 - 4fY735j.jpg" title="BTMC: FREEDOM DiVE screenshot 6" alt="Skin screenshot 6">
+<img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/7 - B7uTCAU.jpg" title="BTMC: FREEDOM DiVE screenshot 7" alt="Skin screenshot 7">
+<img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/8 - NXgUDLI.png" title="BTMC: FREEDOM DiVE screenshot 8" alt="Skin screenshot 8">
+<img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/9 - oq02xPP.jpg" title="BTMC: FREEDOM DiVE screenshot 9" alt="Skin screenshot 9">
+<img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/10 - 8WLzq1W.png" title="BTMC: FREEDOM DiVE screenshot 10" alt="Skin screenshot 10">
+<img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/11 - EYIQuiZ.png" title="BTMC: FREEDOM DiVE screenshot 11" alt="Skin screenshot 11">
+<img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/12 - MdtARkZ.png" title="BTMC: FREEDOM DiVE screenshot 12" alt="Skin screenshot 12">
+<img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/13 - YM1Xfj0.png" title="BTMC: FREEDOM DiVE screenshot 13" alt="Skin screenshot 13">
+<img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/14 - t19rDUl.png" title="BTMC: FREEDOM DiVE screenshot 14" alt="Skin screenshot 14">
+<img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/15 - BUNfoPB.png" title="BTMC: FREEDOM DiVE screenshot 15" alt="Skin screenshot 15">
+<img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/16 - kA4SkpL.png" title="BTMC: FREEDOM DiVE screenshot 16" alt="Skin screenshot 16">
+<img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/17 - zfND0Px.png" title="BTMC: FREEDOM DiVE screenshot 17" alt="Skin screenshot 17">
+<img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/18 - tePV37c.png" title="BTMC: FREEDOM DiVE screenshot 18" alt="Skin screenshot 18">
+<img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/19 - 9h8ePDN.png" title="BTMC: FREEDOM DiVE screenshot 19" alt="Skin screenshot 19">
 </details>
 
 <details>
