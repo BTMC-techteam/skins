@@ -2,7 +2,7 @@
 ## BTMC: FREEDOM DiVE
 ### Screenshots
 #### BTMC (standard)
-<img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/song-selection.png" width="50%" title="BTMC: FREEDOM DiVE screenshot 1" alt="Skin screenshot 1"><img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/song-selection.png" width="50%" title="BTMC: FREEDOM DiVE screenshot 2" alt="Skin screenshot 1">
+<img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/2 - t4akLhn.png" width="50%" title="BTMC: FREEDOM DiVE screenshot 1" alt="Skin screenshot 1"><img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/2 - t4akLhn.png" width="50%" title="BTMC: FREEDOM DiVE screenshot 2" alt="Skin screenshot 1">
 #### DTMC (DT)
 (lol i don't have screenshots yet)
 ### Links
