@@ -33,7 +33,7 @@
 * [osu! forums thread](https://osu.ppy.sh/community/forums/topics/1293207) 
 * [Google Drive](https://drive.google.com/drive/folders/1NytOsVVuJoYG4d57GZcbkggR65EkP6S9?usp=sharing)
 
-|[**Download** (Standard)](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/-%20%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D.osk?raw=true)|[**Download** (DT)](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/-%20%23%20DTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D.osk?raw=true)|
+|[Download (Standard)](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/-%20%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D.osk?raw=true)|[Download (DT)](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/-%20%23%20DTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D.osk?raw=true)|
 |---|---|
 
 # Previous skins
