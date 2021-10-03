@@ -46,3 +46,6 @@
 
 |[Download](assets/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20-/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20-.osk?raw=true)|[Download (Varvalian and WhiteCat Voices)](assets/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20-/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20with%20other%20shit%20-.osk?raw=true)|
 |---|---|
+
+## Rest of the skins (placeholder until we add the rest of the skins here)
+https://docs.google.com/document/d/1cdNRONhdA9xbKrpChrBhF9B8AezwhAnhfMtxeIVhmWk
