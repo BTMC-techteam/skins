@@ -26,15 +26,19 @@
 
 <details>
 <summary>DTMC (DT)</summary>
-<p1>(lol i don't have screenshots yet)</p1>
+<p1>(lol i don't have screenshots yet, but imagine that all the notes are pure white instead)</p1>
 </details>
 
 ### Links
-* [osu! forums thread](https://osu.ppy.sh/community/forums/topics/1293207) 
-* [Google Drive](https://drive.google.com/drive/folders/1NytOsVVuJoYG4d57GZcbkggR65EkP6S9?usp=sharing)
 
-|[Download (Standard)](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/-%20%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D.osk?raw=true)|[Download (DT)](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/-%20%23%20DTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D.osk?raw=true)|
-|---|---|
+#### Download
+|Source|Standard|DT|Extra elements|
+|---|---|---|---|
+|GitHub|[Download](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/-%20%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D.osk?raw=true)|[Download](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/-%20%23%20DTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D.osk?raw=true)|[View on GitHub](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/EXTRA%20ELEMENTS)|
+|Google Drive|[Go to Google Drive](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/-%20%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D.osk?raw=true)|[Go to Google Drive](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/-%20%23%20DTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D.osk?raw=true)|[Go to Google Drive](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/-%20%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D.osk?raw=true)|
+
+#### Related links
+* [osu! forums thread](https://osu.ppy.sh/community/forums/topics/1293207)
 
 # Previous skins
 ## JesusOmega: Planets (With minor edits) _by [JesusOmega](https://www.reddit.com/r/OsuSkins/comments/hb47v6/jesusomegaplanets_hdsd_169_all_mods/)_
@@ -44,8 +48,8 @@
 
 |Source|Standard|Varvalian and WhiteCat voices|
 |---|---------|----------|
-|GitHub|[Standard](assets/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20-/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20-.osk?raw=true)|[Varvalian and WhiteCat voices](assets/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20-/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20with%20other%20shit%20-.osk?raw=true)|
-|Google Drive|[Standard](https://drive.google.com/file/d/1DJl9BhBlzVQgSHxloTI2LOVPFOPm7GAr/view?usp=sharing)|[Varvalian and WhiteCat voices](https://drive.google.com/file/d/1Zt322Z6qJTgKwoPRx6-275lVxcy3ulj9/view?usp=sharing)|
+|GitHub|[Download](assets/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20-/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20-.osk?raw=true)|[Download](assets/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20-/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20with%20other%20shit%20-.osk?raw=true)|
+|Google Drive|[Go to Google Drive](https://drive.google.com/file/d/1DJl9BhBlzVQgSHxloTI2LOVPFOPm7GAr/view?usp=sharing)|[Go to Google Drive](https://drive.google.com/file/d/1Zt322Z6qJTgKwoPRx6-275lVxcy3ulj9/view?usp=sharing)|
 
 
 ## imafancylad
@@ -74,7 +78,7 @@ Credit: Mix Skin
 |Source|Link|
 |---|---|
 |GitHub|[Download](assets/DefaultPlus/osu!default%20plus.osk?raw=true)|
-|Google Drive|[Download](https://drive.google.com/file/d/1VGoNKywfDEK-xgQ_wgl4d0aLNU38GgUU/view?usp=sharing)|
+|Google Drive|[Go to Google Drive](https://drive.google.com/file/d/1VGoNKywfDEK-xgQ_wgl4d0aLNU38GgUU/view?usp=sharing)|
 
 ## Rest of the skins (placeholder until we add the rest of the skins here)
 https://docs.google.com/document/d/1cdNRONhdA9xbKrpChrBhF9B8AezwhAnhfMtxeIVhmWk
