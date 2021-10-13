@@ -1,11 +1,12 @@
 # Current skin
 ## BTMC: FREEDOM DiVE
 ### Screenshots (click to expand)
+<a href="https://www.youtube.com/watch?feature=player_embedded&v=K6DJHNimuCk" target="_blank">
+ Video preview
+</a>
+
 <details>
 <summary>BTMC (standard)</summary>
-<a href="https://www.youtube.com/watch?feature=player_embedded&v=K6DJHNimuCk" target="_blank">
- <img src="https://img.youtube.com/vi/K6DJHNimuCk/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
-</a>
 <img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/1 - puWBKIQ.png" title="BTMC: FREEDOM DiVE screenshot 1" alt="Skin screenshot 1">
 <img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/2 - t4akLhn.png" title="BTMC: FREEDOM DiVE screenshot 2" alt="Skin screenshot 2">
 <img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/3 - cq13Mhf.png" title="BTMC: FREEDOM DiVE screenshot 3" alt="Skin screenshot 3">
