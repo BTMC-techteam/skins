@@ -54,7 +54,7 @@
 [Kazu](https://twitter.com/IsThatKazu)
 * Extra screenshots, credits, and details in the [osu! forums thread](https://osu.ppy.sh/community/forums/topics/1293207)
 
-
+___
 # Previous skins
 ## JesusOmega: Planets (With minor edits) _by [JesusOmega](https://www.reddit.com/r/OsuSkins/comments/hb47v6/jesusomegaplanets_hdsd_169_all_mods/)_
 ### Screenshots
