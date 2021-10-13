@@ -29,11 +29,16 @@
 <p1>(lol i don't have screenshots yet, but imagine that all the notes are pure white instead)</p1>
 </details>
 
+<details>
+<summary>BTMC (AMOGUS)</summary>
+<p1>(no screenshots, but standard skin with pink Among Us cursor)</p1>
+</details>
+
 ### Links
 
 #### Download
 |Source|Standard|DT|AMOGUS|Extra elements|
-|---|---|---|---|---|
+|---|---|---|---|---|   
 |GitHub|[Download](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/-%20%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D.osk?raw=true)|[Download](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/-%20%23%20DTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D.osk?raw=true)|[Download](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/AMONGUS.osk?raw=true)|[View on GitHub](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/EXTRA%20ELEMENTS)|
 |Google Drive|[View in Google Drive](https://drive.google.com/drive/folders/1NytOsVVuJoYG4d57GZcbkggR65EkP6S9)|[View in Google Drive](https://drive.google.com/drive/folders/1NytOsVVuJoYG4d57GZcbkggR65EkP6S9)|[Download](https://drive.google.com/file/d/1ttEZV-JDFPUAhq1f9v-VM0oO7wXXeikp/view)|[View in Google Drive](https://drive.google.com/drive/folders/17AI1jflBfezjna8JKOhq3ce0WsCus40n)|
 
