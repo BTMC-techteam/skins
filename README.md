@@ -52,6 +52,7 @@
 Credit: Mix Skin
 ### Screenshots
 <details>
+<summary>Click to expand</summary>
 <img src="images/imafancylad/01.png" title="imafancylad song select" alt="Skin screenshot of song select">
 <img src="images/imafancylad/02.png" title="imafancylad gameplay" alt="Skin screenshot of gameplay">
 </details>
@@ -72,7 +73,7 @@ Credit: Mix Skin
 ### Links
 |Source|Link|
 |---|---|
-|GitHub|[Download](assets/DefaultPlus/osu!default plus.osk)|
+|GitHub|[Download](assets/DefaultPlus/osu!default%20plus.osk)|
 |Google Drive|[Download](https://drive.google.com/file/d/1VGoNKywfDEK-xgQ_wgl4d0aLNU38GgUU/view?usp=sharing)|
 
 ## Rest of the skins (placeholder until we add the rest of the skins here)
