@@ -32,10 +32,10 @@
 ### Links
 
 #### Download
-|Source|Standard|DT|Extra elements|
-|---|---|---|---|
-|GitHub|[Download](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/-%20%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D.osk?raw=true)|[Download](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/-%20%23%20DTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D.osk?raw=true)|[View on GitHub](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/EXTRA%20ELEMENTS)|
-|Google Drive|[Go to Google Drive](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/-%20%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D.osk?raw=true)|[Go to Google Drive](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/-%20%23%20DTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D.osk?raw=true)|[Go to Google Drive](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/-%20%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D.osk?raw=true)|
+|Source|Standard|DT|AMOGUS|Extra elements|
+|---|---|---|---|---|
+|GitHub|[Download](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/-%20%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D.osk?raw=true)|[Download](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/-%20%23%20DTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D.osk?raw=true)|[Download](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/AMONGUS.osk?raw=true)|[View on GitHub](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/EXTRA%20ELEMENTS)|
+|Google Drive|[View in Google Drive](https://drive.google.com/drive/folders/1NytOsVVuJoYG4d57GZcbkggR65EkP6S9)|[View in Google Drive](https://drive.google.com/drive/folders/1NytOsVVuJoYG4d57GZcbkggR65EkP6S9)|[Download](https://drive.google.com/file/d/1ttEZV-JDFPUAhq1f9v-VM0oO7wXXeikp/view)|[View in Google Drive](https://drive.google.com/drive/folders/17AI1jflBfezjna8JKOhq3ce0WsCus40n)|
 
 #### Related links
 * [osu! forums thread](https://osu.ppy.sh/community/forums/topics/1293207)
