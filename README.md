@@ -1,6 +1,6 @@
 # Current skin
 ## BTMC: FREEDOM DiVE
-### Screenshots
+### Screenshots (click to expand)
 <details>
 <summary>BTMC (standard)</summary>
 <img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/1 - puWBKIQ.png" title="BTMC: FREEDOM DiVE screenshot 1" alt="Skin screenshot 1">
@@ -37,15 +37,43 @@
 |---|---|
 
 # Previous skins
-## JesusOmega: Planets (With minor edits)
+## JesusOmega: Planets (With minor edits) _by [JesusOmega](https://www.reddit.com/r/OsuSkins/comments/hb47v6/jesusomegaplanets_hdsd_169_all_mods/)_
 ### Screenshots
 (WIP)
 ### Links
-* [Google Drive](https://drive.google.com/file/d/1DJl9BhBlzVQgSHxloTI2LOVPFOPm7GAr/view?usp=sharing)
-* [Google Drive (Varvalian and WhiteCat Voices)](https://drive.google.com/file/d/1Zt322Z6qJTgKwoPRx6-275lVxcy3ulj9/view?usp=sharing)
 
-|[Download](assets/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20-/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20-.osk?raw=true)|[Download (Varvalian and WhiteCat Voices)](assets/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20-/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20with%20other%20shit%20-.osk?raw=true)|
+|Source|Standard|Varvalian and WhiteCat voices|
+|---|---------|----------|
+|GitHub|[Standard](assets/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20-/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20-.osk?raw=true)|[Varvalian and WhiteCat voices](assets/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20-/-%20JesusOmega%20%7BNM%7D%20%E3%80%8EPlanets%E3%80%8F%20with%20other%20shit%20-.osk?raw=true)|
+|Google Drive|[Standard](https://drive.google.com/file/d/1DJl9BhBlzVQgSHxloTI2LOVPFOPm7GAr/view?usp=sharing)|[Varvalian and WhiteCat voices](https://drive.google.com/file/d/1Zt322Z6qJTgKwoPRx6-275lVxcy3ulj9/view?usp=sharing)|
+
+
+## imafancylad
+Credit: Mix Skin
+### Screenshots
+<details>
+<img src="images/imafancylad/01.png" title="imafancylad song select" alt="Skin screenshot of song select">
+<img src="images/imafancylad/02.png" title="imafancylad gameplay" alt="Skin screenshot of gameplay">
+</details>
+
+### Links
+|Source|Link|
 |---|---|
+|Dropbox|[Download](https://www.dropbox.com/s/s4a2kxm4ei85kwy/shigeskin.osk?dl=0) (dead)|
+
+## Default Plus (with minor edits) _by [LegitWubz](https://old.reddit.com/r/OsuSkins/comments/ej3htj/osu_default_skin_plus/)_
+### Screenshots
+<details>
+    <summary>Click to expand</summary>
+    <img src="images/DefaultPlus/01.png" title="Default Plus song select" alt="Skin screenshot of song select">
+    <img src="images/DefaultPlus/02.png" title="Default Plus gameplay" alt="Skin screenshot of gameplay">
+</details>
+
+### Links
+|Source|Link|
+|---|---|
+|GitHub|[Download](assets/DefaultPlus/osu!default plus.osk)|
+|Google Drive|[Download](https://drive.google.com/file/d/1VGoNKywfDEK-xgQ_wgl4d0aLNU38GgUU/view?usp=sharing)|
 
 ## Rest of the skins (placeholder until we add the rest of the skins here)
 https://docs.google.com/document/d/1cdNRONhdA9xbKrpChrBhF9B8AezwhAnhfMtxeIVhmWk
