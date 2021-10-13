@@ -73,7 +73,7 @@ Credit: Mix Skin
 ### Links
 |Source|Link|
 |---|---|
-|GitHub|[Download](assets/DefaultPlus/osu!default%20plus.osk)|
+|GitHub|[Download](assets/DefaultPlus/osu!default%20plus.osk?raw=true)|
 |Google Drive|[Download](https://drive.google.com/file/d/1VGoNKywfDEK-xgQ_wgl4d0aLNU38GgUU/view?usp=sharing)|
 
 ## Rest of the skins (placeholder until we add the rest of the skins here)
