@@ -3,6 +3,7 @@
 ### Screenshots (click to expand)
 <details>
 <summary>BTMC (standard)</summary>
+<iframe width="425" height="319" src="https://www.youtube.com/embed/K6DJHNimuCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/1 - puWBKIQ.png" title="BTMC: FREEDOM DiVE screenshot 1" alt="Skin screenshot 1">
 <img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/2 - t4akLhn.png" title="BTMC: FREEDOM DiVE screenshot 2" alt="Skin screenshot 2">
 <img src="images/-%23 BTMC%20%20 ⌞Freedom Dive%20 ↓⌝/3 - cq13Mhf.png" title="BTMC: FREEDOM DiVE screenshot 3" alt="Skin screenshot 3">
@@ -42,8 +43,14 @@
 |GitHub|[Download](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/-%20%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D.osk?raw=true)|[Download](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/-%20%23%20DTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D.osk?raw=true)|[Download](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/AMONGUS.osk?raw=true)|[View on GitHub](assets/-%23%20BTMC%20%20%20%E2%8C%9EFreedom%20Dive%20%20%E2%86%93%E2%8C%9D/EXTRA%20ELEMENTS)|
 |Google Drive|[View in Google Drive](https://drive.google.com/drive/folders/1NytOsVVuJoYG4d57GZcbkggR65EkP6S9)|[View in Google Drive](https://drive.google.com/drive/folders/1NytOsVVuJoYG4d57GZcbkggR65EkP6S9)|[Download](https://drive.google.com/file/d/1ttEZV-JDFPUAhq1f9v-VM0oO7wXXeikp/view)|[View in Google Drive](https://drive.google.com/drive/folders/17AI1jflBfezjna8JKOhq3ce0WsCus40n)|
 
-#### Related links
-* [osu! forums thread](https://osu.ppy.sh/community/forums/topics/1293207)
+#### Extras
+* Credits: [BTMC](https://osu.ppy.sh/users/3171691), 
+[JesusOmega](https://twitter.com/JesusOmega266), 
+[TofuMang](https://twitter.com/tofumang_),
+[MyniMyxii](https://twitter.com/MyniMyxii),
+[Kazu](https://twitter.com/IsThatKazu)
+* Extra screenshots, credits, and details in the [osu! forums thread](https://osu.ppy.sh/community/forums/topics/1293207)
+
 
 # Previous skins
 ## JesusOmega: Planets (With minor edits) _by [JesusOmega](https://www.reddit.com/r/OsuSkins/comments/hb47v6/jesusomegaplanets_hdsd_169_all_mods/)_
