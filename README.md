@@ -92,5 +92,198 @@ Credit: [LegitWubz](https://old.reddit.com/r/OsuSkins/comments/ej3htj/osu_defaul
 |GitHub|[Download](assets/DefaultPlus/osu!default%20plus.osk?raw=true)|
 |Google Drive|[Go to Google Drive](https://drive.google.com/file/d/1VGoNKywfDEK-xgQ_wgl4d0aLNU38GgUU/view?usp=sharing)|
 
-## Rest of the skins (placeholder until we add the rest of the skins here)
-https://docs.google.com/document/d/1cdNRONhdA9xbKrpChrBhF9B8AezwhAnhfMtxeIVhmWk
+## Komori Noel v7
+Credit: [Komori](https://www.reddit.com/r/OsuSkins/comments/bt3fdu/osuskin_n_o_e_l_v_5stdsdhd/)
+### Screenshots
+<details>
+    <summary>Click to expand</summary>
+    <img src="01.png" title="Komori Noel v7 song select" alt="Skin screenshot of song select">
+    <img src="02.png" title="Komori Noel v7 gameplay" alt="Skin screenshot of gameplay">
+</details>
+
+### Links
+|Source|Ed's version|Standard|Optimized Version|
+|---|---|---|---|
+|GitHub|[Download](link)|[Download](link)|[Download](link)|
+|MediaFire|[Go to MediaFire](https://www.mediafire.com/file/u1vsyprb1d2bzi2/Komori_-_NeastroelB_%28SeVIl%29.osk/file)|N/A|[Go to MediaFire](http://www.mediafire.com/file/34l6jm52ddutlcu/Komori_-_NeastroelB_%2528SeVIl%2529_LOW_SPEC.osk/file)|
+|Google Drive|N/A|[Go to Google Drive](https://drive.google.com/file/d/1ZfSfl3zgLkNAJqC_0Skr22rtkTWyCz7Y/view)|N/A|
+|MEGA||N/A|[Go to MEGA](https://mega.nz/#!bq5WiCLb!9dhAjpPWNEgH7CpyZxAEKhv-4HZ2d30izio0FcRCic4)|N/A|
+
+## Komori Noel v6
+Credit: [Komori](https://www.reddit.com/r/OsuSkins/comments/bt3fdu/osuskin_n_o_e_l_v_5stdsdhd/)
+### Screenshots
+<details>
+    <summary>Click to expand</summary>
+    <img src="01.png" title="Komori Noel v6 song select" alt="Skin screenshot of song select">
+    <img src="02.png" title="Komori Noel v6 gameplay" alt="Skin screenshot of gameplay">
+</details>
+
+### Links
+|Source|Standard|Optimized Version|
+|---|---|---|
+|GitHub|[Download](link)|[Download](link)|
+|MEGA|[Go to MEGA](https://mega.nz/#!73xXXYBZ!iplvw4ch5YGrshMMfu2FloslWXNJypO4s2pXiWv_fJg)|[Go to MEGA](https://mega.nz/#!ttJw3YhR!1k3BPScF2cI7v9eF2Y_3h9FogUFzHqbOsCzC6KjFKA8)|
+
+## Noel v5 Edit
+Credit: [Komori](https://www.reddit.com/r/OsuSkins/comments/bt3fdu/osuskin_n_o_e_l_v_5stdsdhd/)
+### Screenshots
+<details>
+    <summary>Click to expand</summary>
+    <img src="01.png" title="Noel v5 Edit song select" alt="Skin screenshot of song select">
+    <img src="02.png" title="Noel v5 Edit gameplay" alt="Skin screenshot of gameplay">
+</details>
+
+### Links
+|Source|Link|
+|---|---|
+|GitHub|[Download](link)|
+|Google Drive|[Go to Google Drive](https://drive.google.com/file/d/1JaDcgb0-QAfrNZ9TOYEr1h69LvyS0tYf/view)|
+
+## - btmc - sora no method
+Credit: [Luisina Designs](https://twitter.com/luisinadesign)
+### Screenshots
+<details>
+    <summary>Click to expand</summary>
+    <img src="01.png" title="- btmc - sora no method song select" alt="Skin screenshot of song select">
+    <img src="02.png" title="- btmc - sora no method gameplay" alt="Skin screenshot of gameplay">
+</details>
+
+### Links
+|Source|Link|
+|---|---|
+|GitHub|[Download](link)|
+|Dropbox|[Go to Dropbox](https://www.dropbox.com/s/znlvvgkpjfxoh60/-%20btmc%20-%20Noel%20Sora%20no%20method.osk?dl=0)|
+
+## owoTuna (Mathi)
+Credit: [CPOL](https://www.reddit.com/r/OsuSkins/comments/c0j42n/owotuna_12_sd_hd_43_169_1610_std/)
+### Screenshots
+<details>
+    <summary>Click to expand</summary>
+    <img src="01.png" title="owoTuna (Mathi) song select" alt="Skin screenshot of song select">
+    <img src="02.png" title="owoTuna (Mathi) gameplay" alt="Skin screenshot of gameplay">
+</details>
+
+### Links
+|Source|Link|
+|---|---|
+|GitHub|[Download](link)|
+|osuck/OSU!SKINS|[Go to osuck/OSU!SKINS](http://skins.osuck.net/index.php?newsid=640)|
+
+## mathyuheydt
+Credit: Mix
+### Screenshots
+<details>
+    <summary>Click to expand</summary>
+    <img src="01.png" title="mathyuheydt song select" alt="Skin screenshot of song select">
+    <img src="02.png" title="mathyuheydt gameplay" alt="Skin screenshot of gameplay">
+</details>
+
+### Links
+|Source|Link|
+|---|---|
+|GitHub|[Download](link)|
+
+## New Noel
+Credit: [dlwnstns99](https://www.reddit.com/user/dlwnstns99/)
+### Screenshots
+<details>
+    <summary>Click to expand</summary>
+    <img src="01.png" title="New Noel song select" alt="Skin screenshot of song select">
+    <img src="02.png" title="New Noel gameplay" alt="Skin screenshot of gameplay">
+</details>
+
+### Links
+|Source|Link|
+|---|---|
+|GitHub|[Download](link)|
+|Google Drive|[Go to Google Drive](https://drive.google.com/file/d/1NCBIcqvq7QaLRJd3Qq2Arpg5iOMIEosE/view)|
+
+## Anime Assemble - Noel
+Credit: [dlwnstns99](https://www.reddit.com/user/dlwnstns99/)
+### Screenshots
+<details>
+    <summary>Click to expand</summary>
+    <img src="01.png" title="Anime Assemble - Noel song select" alt="Skin screenshot of song select">
+    <img src="02.png" title="Anime Assemble - Noel gameplay" alt="Skin screenshot of gameplay">
+</details>
+
+### Links
+|Source|Link|Another Link|
+|---|---|---|
+|GitHub|[Download](link)|
+|MEGA|[Go to MEGA](https://mega.nz/file/KxpQgTbY#BzD2KvSYjaYI6aH4lMvHeQNuzhqBC2JfMbvDDi_32KQ)|[Go to MEGA](https://mega.nz/file/v4xjTAKC#OnlqJ0QUl0vIF_VuYUEgYRDee2iM0ePGLlTOnXXsvUk)|
+
+## Minimal Weeb - Noel v1.3
+Credit: [Hulbeh](https://osu.ppy.sh/users/3866848)
+### Screenshots
+<details>
+    <summary>Click to expand</summary>
+    <img src="01.png" title="Minimal Weeb - Noel v1.3 song select" alt="Skin screenshot of song select">
+    <img src="02.png" title="Minimal Weeb - Noel v1.3 gameplay" alt="Skin screenshot of gameplay">
+</details>
+
+### Links
+|Source|Link|
+|---|---|
+|GitHub|[Download](link)|
+|puu.sh|[Go to puu.sh](https://puu.sh/tbLbw/ba62b2d037.osk)|
+
+## Minimal Weeb - Noel v1.2
+Credit: [Hulbeh](https://www.reddit.com/r/OsuSkins/comments/5b1e61/minimal_weeb_noel_v12_stdhd/)
+### Screenshots
+<details>
+    <summary>Click to expand</summary>
+    <img src="01.png" title="Minimal Weeb - Noel v1.2 song select" alt="Skin screenshot of song select">
+    <img src="02.png" title="Minimal Weeb - Noel v1.2 gameplay" alt="Skin screenshot of gameplay">
+</details>
+
+### Links
+|Source|Link|Another Link|
+|---|---|---|
+|GitHub|[Download](link)|
+|puu.sh|[Go to puu.sh](https://puu.sh/s5OS4/e2031fe8b4.osk)|[Go to puu.sh](https://puu.sh/s5Qxm/4344166a10.osk)|
+
+## ~Rainbow~ v2 Prism Elements
+Credit: Mix skin compiled by Ed
+### Screenshots
+<details>
+    <summary>Click to expand</summary>
+    <img src="01.png" title="~Rainbow~ v2 Prism Elements song select" alt="Skin screenshot of song select">
+    <img src="02.png" title="~Rainbow~ v2 Prism Elements gameplay" alt="Skin screenshot of gameplay">
+</details>
+
+### Links
+|Source|Link|
+|---|---|
+|GitHub|[Download](link)|
+|MediaFire|[Go to MediaFire](https://www.mediafire.com/file/suu196fecfqnyms/%257ERainbow%257E_v2_%2528Prism_Elements%2529.osk/file)|
+
+## Rainbow skin
+Credit: Mix skin compiled by Ed
+### Screenshots
+<details>
+    <summary>Click to expand</summary>
+    <img src="01.png" title="Rainbow skin song select" alt="Skin screenshot of song select">
+    <img src="02.png" title="Rainbow skin gameplay" alt="Skin screenshot of gameplay">
+</details>
+
+### Links
+|Source|Link|
+|---|---|
+|GitHub|[Download](link)|
+|MediaFire|[Go to MediaFire](http://www.mediafire.com/file/oo8h0ykxyx5ydb5/~Rainbow~.osk)|
+
+## Puzzles an Dragons
+Credit: [G_a_L_E](https://www.reddit.com/r/OsuSkins/comments/34pknh/submittion_to_the_skinning_contest_by_g_a_l_e/)
+### Screenshots
+<details>
+    <summary>Click to expand</summary>
+    <img src="01.png" title="Puzzles an Dragons song select" alt="Skin screenshot of song select">
+    <img src="02.png" title="Puzzles an Dragons gameplay" alt="Skin screenshot of gameplay">
+</details>
+
+### Links
+|Source|Link|
+|---|---|
+|GitHub|[Download](link)|
+|MediaFire|[Go to MediaFire](http://www.mediafire.com/download/omhzbpxc8t85yhq/!_[_lifan_].osk)|
