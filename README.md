@@ -79,7 +79,7 @@ Credit: Mix Skin
 ### Links
 |Source|Link|
 |---|---|
-|Dropbox|[Download](https://www.dropbox.com/s/s4a2kxm4ei85kwy/shigeskin.osk?dl=0) (dead)|
+|Dropbox|[Download](https://www.dropbox.com/s/s4a2kxm4ei85kwy/shigeskin.osk)|
 
 ## Default Plus (with minor edits) _by [LegitWubz](https://old.reddit.com/r/OsuSkins/comments/ej3htj/osu_default_skin_plus/)_
 ### Screenshots
