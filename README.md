@@ -18,7 +18,6 @@ Credit: [BTMC](https://osu.ppy.sh/users/3171691), [JesusOmega](https://twitter.c
 <img src="https://i.ppy.sh/0ba6487b6065f141d0fd9024e958ec2331893baa/68747470733a2f2f692e696d6775722e636f6d2f4559495175695a2e706e67" title="BTMC: FREEDOM DiVE section fail" alt="Skin screenshot of section fail">
 <img src="https://i.ppy.sh/e6e9d9c540fa3bd28b7191dc0ea31381dff76b9c/68747470733a2f2f692e696d6775722e636f6d2f6f7130327850502e6a7067" title="BTMC: FREEDOM DiVE pause screen" alt="Skin screenshot of pause screen">
 <img src="https://i.imgur.com/PbIJINu.png" title="BTMC: FREEDOM DiVE screenshot fail screen" alt="Skin screenshot of fail screen">
-<img src="https://i.ppy.sh/c27b2a86783d572f3520d4d09967ec72ed606507/68747470733a2f2f692e696d6775722e636f6d2f637131334d68662e706e67" title="BTMC: FREEDOM DiVE ranking panel" alt="Skin screenshot of ranking panel">
 <img src="https://i.ppy.sh/c50aead9bf793aa9366299b4727a4d262f8e0116/68747470733a2f2f692e696d6775722e636f6d2f4d647441526b5a2e706e67" title="BTMC: FREEDOM DiVE grey SS ranking letter" alt="Skin screenshot of grey SS ranking letter">
 <img src="https://i.ppy.sh/b47a736eb52b0eccb239f9582c943dd862afb5be/68747470733a2f2f692e696d6775722e636f6d2f594d3158666a302e706e67" title="BTMC: FREEDOM DiVE grey S ranking letter" alt="Skin screenshot of grey S ranking letter">
 <img src="https://i.ppy.sh/3caa267b958ed82261eb6e0d6e59e05b9451cd20/68747470733a2f2f692e696d6775722e636f6d2f7431397244556c2e706e67" title="BTMC: FREEDOM DiVE SS ranking letter" alt="Skin screenshot of SS ranking letter">
@@ -56,7 +55,6 @@ ___
 ### Screenshots
 <details>
     <summary>Click to expand</summary>
-    <img src="https://lh6.googleusercontent.com/enIy-DgNGaJ5AtltAlv4Cd5WXk91buz_iLc0uut2CwZMmtpymJDpRuFWxB0Zvc5Dk2F-YyPcw7DkmiY3zfJT-RE_8p67X_kEr1dn_xJrOd0nZbQc-_JQnCX2lbpB7Z40TnFgmFp8" title="JesusOmega: Planets song select" alt="Skin screenshot of song select">
     <img src="https://i.imgur.com/bfpI7Jv.jpeg" title="JesusOmega: Planets song select" alt="Skin screenshot of song select">
     <img src="https://i.imgur.com/k0taqjf.jpeg" title="JesusOmega: Planets mode select" alt="Skin screenshot of mode select">
     <img src="https://i.imgur.com/NZ1CaGZ.jpeg" title="JesusOmega: Planets mod icons" alt="Skin screenshot of mod icons">
@@ -268,7 +266,6 @@ Credit: [dlwnstns99](https://www.reddit.com/user/dlwnstns99/)
 ### Screenshots
 <details>
     <summary>Click to expand</summary>
-    <img src="https://puu.sh/yNwAE/7f85e16c03.jpg" title="Anime Assemble - Noel screenshots" alt="Skin screenshot of screenshots">
     <img src="https://lh4.googleusercontent.com/8Od2W4fM_0OdjrAtAp92LTIlU-g1D3iz-nFUIHwABpKWr8OPKXjmIfM1w14Ql3GCPpQ-Dal2ObxFJnO3miS967KfSk-QbBiOqIOobiGukKKwoNJES7ehrQIGGFvU2ScrOACOp3zy" title="Anime Assemble - Noel song select" alt="Skin screenshot of song select">
     <img src="https://lh3.googleusercontent.com/89urqQ8ThsdOaSdTHW_TbiHvo2tcHLcORrg386d7g4gQZYxPlfjD-4O0SSp2Q1PvV3vdDtrL71AM58z7uAaHOK-GX2MXQLp7aHOOvBMO7Y0u_NFQeoxKS8MOPOjMhxPMZ8rJCP86" title="Anime Assemble - Noel gameplay" alt="Skin screenshot of gameplay">
 </details>
