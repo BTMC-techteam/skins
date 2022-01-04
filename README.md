@@ -356,13 +356,13 @@ Credit: [G_a_L_E](https://www.reddit.com/r/OsuSkins/comments/34pknh/submittion_t
 <details>
     <summary>Click to expand</summary>
     <img src="https://i.imgur.com/GVdGFcT.png" title="Puzzles an Dragons song select" alt="Skin screenshot of song select">
-    <img src="https://i.imgur.com/jEksk1a.png" title="Puzzles an Dragons gameplay" alt="Skin screenshot of gameplay">
-    <img src="https://i.imgur.com/UVXkm5a.png" title="Puzzles an Dragons pause screen" alt="Skin screenshot of pause screen">
-    <img src="https://i.imgur.com/iQnfNQl.png" title="Puzzles an Dragons skip" alt="Skin screenshot of skip">
     <img src="https://i.imgur.com/55e3ZhP.png" title="Puzzles an Dragons mode select" alt="Skin screenshot of mode select">
-    <img src="https://i.imgur.com/DBn3V7Y.png" title="Puzzles an Dragons ranking panel" alt="Skin screenshot of ranking panel">
     <img src="https://i.imgur.com/774QJcY.png" title="Puzzles an Dragons mod icons" alt="Skin screenshot of mod icons">
+    <img src="https://i.imgur.com/jEksk1a.png" title="Puzzles an Dragons gameplay" alt="Skin screenshot of gameplay">
+    <img src="https://i.imgur.com/iQnfNQl.png" title="Puzzles an Dragons skip" alt="Skin screenshot of skip">
+    <img src="https://i.imgur.com/UVXkm5a.png" title="Puzzles an Dragons pause screen" alt="Skin screenshot of pause screen">
     <img src="https://i.imgur.com/g73QaYk.png" title="Puzzles an Dragons fail screen" alt="Skin screenshot of fail screen">
+    <img src="https://i.imgur.com/DBn3V7Y.png" title="Puzzles an Dragons ranking panel" alt="Skin screenshot of ranking panel">
 </details>
 
 ### Links
