@@ -370,3 +370,42 @@ Credit: [G_a_L_E](https://www.reddit.com/r/OsuSkins/comments/34pknh/submittion_t
 |---|---|
 |GitHub|[Download](link)|
 |MediaFire|[Go to MediaFire](http://www.mediafire.com/download/omhzbpxc8t85yhq/!_[_lifan_].osk)|
+
+## ENE06
+Credit: [Choilicious](https://www.reddit.com/r/OsuSkins/comments/3pqkht/ene06_shitskin/)
+
+### Screenshots
+<details>
+    <summary>Click to expand</summary>
+    <img src="https://i.imgur.com/1tGFpQo.jpeg" title="ENE06 home screen" alt="Skin screenshot of home screen">
+    <img src="https://i.imgur.com/gqUywyn.jpeg" title="ENE06 song select" alt="Skin screenshot of song select">
+    <img src="https://i.imgur.com/JECpT9g.jpeg" title="ENE06 mod icons" alt="Skin screenshot of mod icons">
+    <img src="https://i.imgur.com/K17A8TS.jpeg" title="ENE06 gameplay" alt="Skin screenshot of gameplay">
+    <img src="https://i.imgur.com/2TYJlfx.jpeg" title="ENE06 gameplay (reverse slider)" alt="Skin screenshot of gameplay (reverse slider)">
+    <img src="https://i.imgur.com/8nSOvGc.jpeg" title="ENE06 skip" alt="Skin screenshot of skip">
+    <img src="https://i.imgur.com/GyhbRnM.jpeg" title="ENE06 pause screen" alt="Skin screenshot of pause screen">
+    <img src="https://i.imgur.com/D2uloC0.jpeg" title="ENE06 ranking panel" alt="Skin screenshot of ranking panel">
+</details>
+
+### Links
+|Source|Link|
+|---|---|
+|GitHub|[Download](link)|
+|puu.sh|[Go to puu.sh](http://puu.sh/l0GqU.osk)|
+|Dropbox|[Go to Dropbox](https://www.dropbox.com/s/d8udeguaa4ucjx8/-%20ENE06.v01.osk)|
+
+## BeasttrollMC skin v1.1
+Credit: Mix skin compiled by Ed
+
+### Screenshots
+<details>
+    <summary>Click to expand</summary>
+    <img src="https://lh4.googleusercontent.com/VBWCfI6-bLDLZk35myUe9l-Q17E1k8z-DQcD53dWuyS6402PXF3JuLTCelw-EI9KJPooEkL0ZK9Ozr5ur_dg0PUnBc9bwauEC0vRyyyGcE0JVNjmQwPNLxKiikXQ_OZZGj22oQHM" title="BeasttrollMC skin v1.1 song select" alt="Skin screenshot of song select">
+    <img src="https://lh6.googleusercontent.com/Wr0LUI_bRHqOnjovPSIQs7EAWObKstWw_o3-bZPXJKXKcrycDVrtw_-AZ9cvJAgB9L45rcgHPdcz1t69BLBRQ4noDWWAx0me9Ji1CgOq_ScxAT0Hl48vNzS8P4GFa7wXIiQwawOy" title="BeasttrollMC skin v1.1 gameplay" alt="Skin screenshot of gameplay">
+</details>
+
+### Links
+|Source|Link|
+|---|---|
+|GitHub|[Download](link)|
+|MediaFire|[Go to MediaFire](https://www.mediafire.com/file/wfr5hvmi25rropi/BeasttrollMC%2527s_Skin_v1.1.osk/file)|
