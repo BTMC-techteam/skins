@@ -8,7 +8,7 @@ Credit: [BTMC](https://osu.ppy.sh/users/3171691), [JesusOmega](https://twitter.c
 
 <details>
 <summary>BTMC (standard)</summary>
-<img src="https://i.ppy.sh/542c3fbaaf1a60a0f1b183d241dfb24038f33364/68747470733a2f2f692e696d6775722e636f6d2f707557424b49512e706e67" title="BTMC: FREEDOM DiVE home screen" alt="Skin screenshot of home screen">
+<img src="https://i.ppy.sh/542c3fbaaf1a60a0f1b183d241dfb24038f33364/68747470733a2f2f692e696d6775722e636f6d2f707557424b49512e706e67" title="BTMC: FREEDOM DiVE menu background" alt="Skin screenshot of menu background">
 <img src="https://i.ppy.sh/367471cc102e495846d59233f697feaa954eafa6/68747470733a2f2f692e696d6775722e636f6d2f7434616b4c686e2e706e67" title="BTMC: FREEDOM DiVE song select" alt="Skin screenshot of song select">
 <img src="https://i.ppy.sh/2b7fe6f42a025751dd1e141b53ba23a55c45106d/68747470733a2f2f692e696d6775722e636f6d2f33557a65327a6a2e706e67" title="BTMC: FREEDOM DiVE mod icons" alt="Skin screenshot of mod icons">
 <img src="https://i.ppy.sh/19743f9a911d966fca64a81c018ee380dba163a3/68747470733a2f2f692e696d6775722e636f6d2f74696563544e482e706e67" title="BTMC: FREEDOM DiVE gameplay" alt="Skin screenshot of gameplay">
@@ -16,8 +16,8 @@ Credit: [BTMC](https://osu.ppy.sh/users/3171691), [JesusOmega](https://twitter.c
 <img src="https://i.ppy.sh/1298af4ea229b57ffd3cdb79ce2a42031ae74cd2/68747470733a2f2f692e696d6775722e636f6d2f423775544341552e6a7067" title="BTMC: FREEDOM DiVE gameplay (spinner)" alt="Skin screenshot of gameplay (spinner)">
 <img src="https://i.ppy.sh/6d3e82db3692bd7b4420babf5c607e648dff44a4/68747470733a2f2f692e696d6775722e636f6d2f38574c7a7131572e706e67" title="BTMC: FREEDOM DiVE section pass" alt="Skin screenshot of section pass">
 <img src="https://i.ppy.sh/0ba6487b6065f141d0fd9024e958ec2331893baa/68747470733a2f2f692e696d6775722e636f6d2f4559495175695a2e706e67" title="BTMC: FREEDOM DiVE section fail" alt="Skin screenshot of section fail">
-<img src="https://i.ppy.sh/e6e9d9c540fa3bd28b7191dc0ea31381dff76b9c/68747470733a2f2f692e696d6775722e636f6d2f6f7130327850502e6a7067" title="BTMC: FREEDOM DiVE pause screen" alt="Skin screenshot of pause screen">
-<img src="https://i.imgur.com/PbIJINu.png" title="BTMC: FREEDOM DiVE screenshot fail screen" alt="Skin screenshot of fail screen">
+<img src="https://i.ppy.sh/e6e9d9c540fa3bd28b7191dc0ea31381dff76b9c/68747470733a2f2f692e696d6775722e636f6d2f6f7130327850502e6a7067" title="BTMC: FREEDOM DiVE pause overlay" alt="Skin screenshot of pause overlay">
+<img src="https://i.imgur.com/PbIJINu.png" title="BTMC: FREEDOM DiVE screenshot fail overlay" alt="Skin screenshot of fail overlay">
 <img src="https://i.ppy.sh/c50aead9bf793aa9366299b4727a4d262f8e0116/68747470733a2f2f692e696d6775722e636f6d2f4d647441526b5a2e706e67" title="BTMC: FREEDOM DiVE ranking panel (grey SS HD)" alt="Skin screenshot of ranking panel (grey SS HD)">
 <img src="https://i.ppy.sh/b47a736eb52b0eccb239f9582c943dd862afb5be/68747470733a2f2f692e696d6775722e636f6d2f594d3158666a302e706e67" title="BTMC: FREEDOM DiVE ranking panel (grey S HD)" alt="Skin screenshot of ranking panel (grey S HD)">
 <img src="https://i.ppy.sh/3caa267b958ed82261eb6e0d6e59e05b9451cd20/68747470733a2f2f692e696d6775722e636f6d2f7431397244556c2e706e67" title="BTMC: FREEDOM DiVE ranking panel (SS)" alt="Skin screenshot of ranking panel (SS)">
@@ -61,8 +61,8 @@ ___
     <img src="https://i.imgur.com/1Ub3nLC.jpeg" title="JesusOmega: Planets gameplay" alt="Skin screenshot of gameplay">
     <img src="https://i.imgur.com/nCuvRWk.jpeg" title="JesusOmega: Planets spinner" alt="Skin screenshot of spinner">
     <img src="https://i.imgur.com/uWVhO95.jpeg" title="JesusOmega: Planets skip" alt="Skin screenshot of skip">
-    <img src="https://i.imgur.com/3WCcufc.jpeg" title="JesusOmega: Planets pause screen" alt="Skin screenshot of pause screen">
-    <img src="https://i.imgur.com/1woYqQm.jpeg" title="JesusOmega: Planets fail screen" alt="Skin screenshot of fail screen">
+    <img src="https://i.imgur.com/3WCcufc.jpeg" title="JesusOmega: Planets pause overlay" alt="Skin screenshot of pause overlay">
+    <img src="https://i.imgur.com/1woYqQm.jpeg" title="JesusOmega: Planets fail overlay" alt="Skin screenshot of fail overlay">
     <img src="https://i.imgur.com/ndCXd1C.jpeg" title="JesusOmega: Planets ranking panel" alt="Skin screenshot of ranking panel">
     <img src="https://i.imgur.com/1cfPfFw.jpeg" title="JesusOmega: Planets taiko gameplay" alt="Skin screenshot of taiko gameplay">
     <img src="https://i.imgur.com/6eQztxD.jpeg" title="JesusOmega: Planets catch gameplay" alt="Skin screenshot of catch gameplay">
@@ -110,8 +110,8 @@ Credit: [LegitWubz](https://old.reddit.com/r/OsuSkins/comments/ej3htj/osu_defaul
     <img src="https://i.imgur.com/TYkWywk.jpeg" title="Default Plus mod icons" alt="Skin screenshot of mod icons">
     <img src="https://i.imgur.com/iDE1mu6.jpeg" title="Default Plus gameplay" alt="Skin screenshot of gameplay">
     <img src="https://i.imgur.com/Fm609AC.jpeg" title="Default Plus fail" alt="Skin screenshot of fail">
-    <img src="https://i.imgur.com/2FQ7hdX.jpeg" title="Default Plus pause screen" alt="Skin screenshot of pause screen">
-    <img src="https://i.imgur.com/q7HlX1p.jpeg" title="Default Plus fail screen" alt="Skin screenshot of fail screen">
+    <img src="https://i.imgur.com/2FQ7hdX.jpeg" title="Default Plus pause overlay" alt="Skin screenshot of pause overlay">
+    <img src="https://i.imgur.com/q7HlX1p.jpeg" title="Default Plus fail overlay" alt="Skin screenshot of fail overlay">
     <img src="https://i.imgur.com/dvxT42b.jpeg" title="Default Plus ranking panel" alt="Skin screenshot of ranking panel">
 </details>
 
@@ -143,7 +143,7 @@ Credit: [Komori](https://www.reddit.com/r/OsuSkins/comments/bt3fdu/osuskin_n_o_e
 ### Screenshots
 <details>
     <summary>Click to expand</summary>
-    <img src="https://i.imgur.com/ZdoiQz7.jpeg" title="Komori Noel v6 home screen" alt="Skin screenshot of home screen">
+    <img src="https://i.imgur.com/ZdoiQz7.jpeg" title="Komori Noel v6 menu background" alt="Skin screenshot of menu background">
     <img src="https://i.imgur.com/PjPFwf3.jpeg" title="Komori Noel v6 mode select" alt="Skin screenshot of mode select">
     <img src="https://i.imgur.com/sLapRcd.jpeg" title="Komori Noel v6 mod icons" alt="Skin screenshot of mod icons">
     <img src="https://i.imgur.com/R2CeVs9.jpeg" title="Komori Noel v6 song select" alt="Skin screenshot of song select">
@@ -208,8 +208,8 @@ Credit: [CPOL](https://www.reddit.com/r/OsuSkins/comments/c0j42n/owotuna_12_sd_h
     <img src="https://i.imgur.com/bq0w5GU.jpeg" title="owoTuna (Mathi) gameplay (spinner)" alt="Skin screenshot of gameplay (spinner)">
     <img src="https://i.imgur.com/IImwnpD.jpeg" title="owoTuna (Mathi) section pass" alt="Skin screenshot of section pass">
     <img src="https://i.imgur.com/dPpxfQf.jpeg" title="owoTuna (Mathi) section fail" alt="Skin screenshot of section fail">
-    <img src="https://i.imgur.com/RkF2SGX.jpeg" title="owoTuna (Mathi) pause screen" alt="Skin screenshot of pause screen">
-    <img src="https://i.imgur.com/CbwGTBx.jpeg" title="owoTuna (Mathi) fail screen" alt="Skin screenshot of fail screen">
+    <img src="https://i.imgur.com/RkF2SGX.jpeg" title="owoTuna (Mathi) pause overlay" alt="Skin screenshot of pause overlay">
+    <img src="https://i.imgur.com/CbwGTBx.jpeg" title="owoTuna (Mathi) fail overlay" alt="Skin screenshot of fail overlay">
     <img src="https://i.imgur.com/ndkKtwR.jpeg" title="owoTuna (Mathi) ranking panel" alt="Skin screenshot of ranking panel">
 
 </details>
@@ -231,8 +231,8 @@ Credit: [Freddie Benson](https://osu.ppy.sh/users/7342622)
     <img src="https://skins.osuck.net/uploads/posts/2019-01/1548572454_screenshot2467.jpg" title="heydt rafiswomb greenblue gameplay (no objects)" alt="Skin screenshot of gameplay (no objects)">
     <img src="https://i.imgur.com/aDOeQgb.png" title="heydt rafiswomb greenblue gameplay (hitcircles)" alt="Skin screenshot of gameplay (hitcircles)">
     <img src="https://i.imgur.com/xv8v8Kx.png" title="heydt rafiswomb greenblue gameplay (spinner)" alt="Skin screenshot of gameplay (spinner)">
-    <img src="https://skins.osuck.net/uploads/posts/2019-01/1548572428_screenshot2469.jpg" title="heydt rafiswomb greenblue pause screen" alt="Skin screenshot of pause screen">
-    <img src="https://skins.osuck.net/uploads/posts/2019-01/1548572501_screenshot2470.jpg" title="heydt rafiswomb greenblue fail screen" alt="Skin screenshot of fail screen">
+    <img src="https://skins.osuck.net/uploads/posts/2019-01/1548572428_screenshot2469.jpg" title="heydt rafiswomb greenblue pause overlay" alt="Skin screenshot of pause overlay">
+    <img src="https://skins.osuck.net/uploads/posts/2019-01/1548572501_screenshot2470.jpg" title="heydt rafiswomb greenblue fail overlay" alt="Skin screenshot of fail overlay">
     <img src="https://i.imgur.com/Urj0TVs.png" title="heydt rafiswomb greenblue ranking panel" alt="Skin screenshot of ranking panel">
 </details>
 
@@ -247,14 +247,14 @@ Credit: [dlwnstns99](https://www.reddit.com/user/dlwnstns99/)
 ### Screenshots
 <details>
     <summary>Click to expand</summary>
-    <img src="https://i.imgur.com/i4Xynnp.jpeg" title="New Noel home screen" alt="Skin screenshot of home screen">
+    <img src="https://i.imgur.com/i4Xynnp.jpeg" title="New Noel menu background" alt="Skin screenshot of menu background">
     <img src="https://i.imgur.com/QP5AWmk.png" title="New Noel mod icons" alt="Skin screenshot of mod icons">
     <img src="https://i.imgur.com/Fc9pPcV.jpeg" title="New Noel song select" alt="Skin screenshot of song select">
     <img src="https://i.imgur.com/QjLqNBw.png" title="New Noel gameplay" alt="Skin screenshot of gameplay">
     <img src="https://i.imgur.com/goRVw39.png" title="New Noel gameplay (hitcircles)" alt="Skin screenshot of gameplay (hitcircles)">
     <img src="https://i.imgur.com/fOBmeGX.png" title="New Noel gameplay (spinner)" alt="Skin screenshot of gameplay (spinner)">
-    <img src="https://i.imgur.com/1bo3hx8.jpeg" title="New Noel pause screen" alt="Skin screenshot of pause screen">
-    <img src="https://i.imgur.com/y4HrTav.png" title="New Noel fail screen" alt="Skin screenshot of fail screen">
+    <img src="https://i.imgur.com/1bo3hx8.jpeg" title="New Noel pause overlay" alt="Skin screenshot of pause overlay">
+    <img src="https://i.imgur.com/y4HrTav.png" title="New Noel fail overlay" alt="Skin screenshot of fail overlay">
     <img src="https://i.imgur.com/a3fNc8Y.jpeg" title="New Noel ranking panel" alt="Skin screenshot of ranking panel">
 </details>
 
@@ -299,7 +299,7 @@ Credit: [Hulbeh](https://www.reddit.com/r/OsuSkins/comments/5b1e61/minimal_weeb_
 ### Screenshots
 <details>
     <summary>Click to expand</summary>
-    <img src="https://i.imgur.com/hKYtJ0Z.jpeg" title="Minimal Weeb - Noel v1.2 home screen" alt="Skin screenshot of home screen">
+    <img src="https://i.imgur.com/hKYtJ0Z.jpeg" title="Minimal Weeb - Noel v1.2 menu background" alt="Skin screenshot of menu background">
     <img src="https://i.imgur.com/GWcFUAh.jpeg" title="Minimal Weeb - Noel v1.2 song select" alt="Skin screenshot of song select">
     <img src="https://i.imgur.com/paY6jfb.jpeg" title="Minimal Weeb - Noel v1.2 mod icons (none selected)" alt="Skin screenshot of mod icons (none selected)">
     <img src="https://i.imgur.com/2t7te4X.jpeg" title="Minimal Weeb - Noel v1.2 mod icons (NF DT SO selected)" alt="Skin screenshot of gameplay (NF DT SO selected)">
@@ -308,8 +308,8 @@ Credit: [Hulbeh](https://www.reddit.com/r/OsuSkins/comments/5b1e61/minimal_weeb_
     <img src="https://i.imgur.com/fQK1iUp.jpeg" title="Minimal Weeb - Noel v1.2 gameplay" alt="Skin screenshot of gameplay">
     <img src="https://i.imgur.com/ngBunHV.jpeg" title="Minimal Weeb - Noel v1.2 gameplay (spinner)" alt="Skin screenshot of gameplay (spinner)">
     <img src="https://i.imgur.com/87hh28O.jpeg" title="Minimal Weeb - Noel v1.2 section pass" alt="Skin screenshot of section pass">
-    <img src="https://i.imgur.com/pTEtiC8.jpeg" title="Minimal Weeb - Noel v1.2 pause screen" alt="Skin screenshot of pause screen">
-    <img src="https://i.imgur.com/bE4VU1p.jpeg" title="Minimal Weeb - Noel v1.2 fail screen" alt="Skin screenshot of fail screen">
+    <img src="https://i.imgur.com/pTEtiC8.jpeg" title="Minimal Weeb - Noel v1.2 pause overlay" alt="Skin screenshot of pause overlay">
+    <img src="https://i.imgur.com/bE4VU1p.jpeg" title="Minimal Weeb - Noel v1.2 fail overlay" alt="Skin screenshot of fail overlay">
     <img src="https://i.imgur.com/DHCNmRV.jpeg" title="Minimal Weeb - Noel v1.2 ranking panel (perfect S NM)" alt="Skin screenshot of ranking panel (perfect S NM)">
     <img src="https://i.imgur.com/5B4BVMJ.jpeg" title="Minimal Weeb - Noel v1.2 ranking panel (D SO NF)" alt="Skin screenshot of gameplay (D SO NF)">
 </details>
@@ -360,8 +360,8 @@ Credit: [G_a_L_E](https://www.reddit.com/r/OsuSkins/comments/34pknh/submittion_t
     <img src="https://i.imgur.com/774QJcY.png" title="Puzzles an Dragons mod icons" alt="Skin screenshot of mod icons">
     <img src="https://i.imgur.com/jEksk1a.png" title="Puzzles an Dragons gameplay" alt="Skin screenshot of gameplay">
     <img src="https://i.imgur.com/iQnfNQl.png" title="Puzzles an Dragons skip" alt="Skin screenshot of skip">
-    <img src="https://i.imgur.com/UVXkm5a.png" title="Puzzles an Dragons pause screen" alt="Skin screenshot of pause screen">
-    <img src="https://i.imgur.com/g73QaYk.png" title="Puzzles an Dragons fail screen" alt="Skin screenshot of fail screen">
+    <img src="https://i.imgur.com/UVXkm5a.png" title="Puzzles an Dragons pause overlay" alt="Skin screenshot of pause overlay">
+    <img src="https://i.imgur.com/g73QaYk.png" title="Puzzles an Dragons fail overlay" alt="Skin screenshot of fail overlay">
     <img src="https://i.imgur.com/DBn3V7Y.png" title="Puzzles an Dragons ranking panel" alt="Skin screenshot of ranking panel">
 </details>
 
@@ -377,13 +377,13 @@ Credit: [Choilicious](https://www.reddit.com/r/OsuSkins/comments/3pqkht/ene06_sh
 ### Screenshots
 <details>
     <summary>Click to expand</summary>
-    <img src="https://i.imgur.com/1tGFpQo.jpeg" title="ENE06 home screen" alt="Skin screenshot of home screen">
+    <img src="https://i.imgur.com/1tGFpQo.jpeg" title="ENE06 menu background" alt="Skin screenshot of menu background">
     <img src="https://i.imgur.com/gqUywyn.jpeg" title="ENE06 song select" alt="Skin screenshot of song select">
     <img src="https://i.imgur.com/JECpT9g.jpeg" title="ENE06 mod icons" alt="Skin screenshot of mod icons">
     <img src="https://i.imgur.com/K17A8TS.jpeg" title="ENE06 gameplay" alt="Skin screenshot of gameplay">
     <img src="https://i.imgur.com/2TYJlfx.jpeg" title="ENE06 gameplay (reverse slider)" alt="Skin screenshot of gameplay (reverse slider)">
     <img src="https://i.imgur.com/8nSOvGc.jpeg" title="ENE06 skip" alt="Skin screenshot of skip">
-    <img src="https://i.imgur.com/GyhbRnM.jpeg" title="ENE06 pause screen" alt="Skin screenshot of pause screen">
+    <img src="https://i.imgur.com/GyhbRnM.jpeg" title="ENE06 pause overlay" alt="Skin screenshot of pause overlay">
     <img src="https://i.imgur.com/D2uloC0.jpeg" title="ENE06 ranking panel" alt="Skin screenshot of ranking panel">
 </details>
 
