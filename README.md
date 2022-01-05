@@ -218,26 +218,27 @@ Credit: [CPOL](https://www.reddit.com/r/OsuSkins/comments/c0j42n/owotuna_12_sd_h
 |GitHub|[Download](link)|
 |osuck/OSU!SKINS|[Go to osuck/OSU!SKINS](http://skins.osuck.net/index.php?newsid=640)|
 
-## mathyuheydt
-Credit: Mix
+## heydt rafiswomb greenblue
+Credit: [Freddie Benson](https://osu.ppy.sh/users/7342622)
 ### Screenshots
 <details>
     <summary>Click to expand</summary>
-    <img src="https://i.imgur.com/ETaABYU.png" title="mathyuheydt song select" alt="Skin screenshot of song select">
-    <img src="https://i.imgur.com/SAkxXB6.png" title="mathyuheydt mod icons" alt="Skin screenshot of mod icons">
-    <img src="https://skins.osuck.net/uploads/posts/2019-01/1548572450_screenshot2472.jpg" title="mathyuheydt skip" alt="Skin screenshot of skip">
-    <img src="https://skins.osuck.net/uploads/posts/2019-01/1548572454_screenshot2467.jpg" title="mathyuheydt gameplay (no objects)" alt="Skin screenshot of gameplay (no objects)">
-    <img src="https://i.imgur.com/aDOeQgb.png" title="mathyuheydt gameplay (hitcircles)" alt="Skin screenshot of gameplay (hitcircles)">
-    <img src="https://i.imgur.com/xv8v8Kx.png" title="mathyuheydt gameplay (spinner)" alt="Skin screenshot of gameplay (spinner)">
-    <img src="https://skins.osuck.net/uploads/posts/2019-01/1548572428_screenshot2469.jpg" title="mathyuheydt pause screen" alt="Skin screenshot of pause screen">
-    <img src="https://skins.osuck.net/uploads/posts/2019-01/1548572501_screenshot2470.jpg" title="mathyuheydt fail screen" alt="Skin screenshot of fail screen">
-    <img src="https://i.imgur.com/Urj0TVs.png" title="mathyuheydt ranking panel" alt="Skin screenshot of ranking panel">
+    <img src="https://i.imgur.com/ETaABYU.png" title="heydt rafiswomb greenblue song select" alt="Skin screenshot of song select">
+    <img src="https://i.imgur.com/SAkxXB6.png" title="heydt rafiswomb greenblue mod icons" alt="Skin screenshot of mod icons">
+    <img src="https://skins.osuck.net/uploads/posts/2019-01/1548572450_screenshot2472.jpg" title="heydt rafiswomb greenblue skip" alt="Skin screenshot of skip">
+    <img src="https://skins.osuck.net/uploads/posts/2019-01/1548572454_screenshot2467.jpg" title="heydt rafiswomb greenblue gameplay (no objects)" alt="Skin screenshot of gameplay (no objects)">
+    <img src="https://i.imgur.com/aDOeQgb.png" title="heydt rafiswomb greenblue gameplay (hitcircles)" alt="Skin screenshot of gameplay (hitcircles)">
+    <img src="https://i.imgur.com/xv8v8Kx.png" title="heydt rafiswomb greenblue gameplay (spinner)" alt="Skin screenshot of gameplay (spinner)">
+    <img src="https://skins.osuck.net/uploads/posts/2019-01/1548572428_screenshot2469.jpg" title="heydt rafiswomb greenblue pause screen" alt="Skin screenshot of pause screen">
+    <img src="https://skins.osuck.net/uploads/posts/2019-01/1548572501_screenshot2470.jpg" title="heydt rafiswomb greenblue fail screen" alt="Skin screenshot of fail screen">
+    <img src="https://i.imgur.com/Urj0TVs.png" title="heydt rafiswomb greenblue ranking panel" alt="Skin screenshot of ranking panel">
 </details>
 
 ### Links
 |Source|Link|
 |---|---|
 |GitHub|[Download](link)|
+|osuck/OSU!SKINS|[Go to osuck/OSU!SKINS](http://skins.osuck.net/index.php?newsid=468)|
 
 ## New Noel
 Credit: [dlwnstns99](https://www.reddit.com/user/dlwnstns99/)
