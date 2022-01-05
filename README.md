@@ -43,7 +43,7 @@ Credit: [BTMC](https://osu.ppy.sh/users/3171691), [JesusOmega](https://twitter.c
 #### Download
 |Source|Standard|DT|AMOGUS|Extra elements|
 |---|---|---|---|---|
-|GitHub|N/A|N/A|N/A|N/A|
+|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/-.BTMC.Freedom.Dive.osk)|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/-.DTMC.Freedom.Dive.osk)|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/AMONGUS.osk)|N/A|
 |Google Drive|[View in Google Drive](https://drive.google.com/drive/folders/1NytOsVVuJoYG4d57GZcbkggR65EkP6S9)|[View in Google Drive](https://drive.google.com/drive/folders/1NytOsVVuJoYG4d57GZcbkggR65EkP6S9)|[Download](https://drive.google.com/file/d/1ttEZV-JDFPUAhq1f9v-VM0oO7wXXeikp/view)|[View in Google Drive](https://drive.google.com/drive/folders/17AI1jflBfezjna8JKOhq3ce0WsCus40n)|
 
 #### Extras
@@ -82,7 +82,7 @@ ___
 ### Links
 |Source|Standard|Varvalian and WhiteCat voices|
 |---|---------|----------|
-|GitHub|N/A|N/A|
+|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/-.JesusOmega.NM.Planets.-.osk)|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/-.JesusOmega.NM.Planets.with.other.shit.-.osk)|
 |Google Drive|[Go to Google Drive](https://drive.google.com/file/d/1DJl9BhBlzVQgSHxloTI2LOVPFOPm7GAr/view?usp=sharing)|[Go to Google Drive](https://drive.google.com/file/d/1Zt322Z6qJTgKwoPRx6-275lVxcy3ulj9/view?usp=sharing)|
 
 
@@ -98,7 +98,7 @@ Credit: Mix Skin
 ### Links
 |Source|Link|
 |---|---|
-|GitHub|N/A|
+|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/shigeskin.osk)|
 |Dropbox|[Download](https://www.dropbox.com/s/s4a2kxm4ei85kwy/shigeskin.osk)|
 
 ## Default Plus (with minor edits)
@@ -118,7 +118,7 @@ Credit: [LegitWubz](https://old.reddit.com/r/OsuSkins/comments/ej3htj/osu_defaul
 ### Links
 |Source|Link|
 |---|---|
-|GitHub|N/A|
+|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/osu.default.plus.osk)|
 |Google Drive|[Go to Google Drive](https://drive.google.com/file/d/1VGoNKywfDEK-xgQ_wgl4d0aLNU38GgUU/view?usp=sharing)|
 
 ## Komori Noel v7
@@ -133,7 +133,7 @@ Credit: [Komori](https://www.reddit.com/r/OsuSkins/comments/bt3fdu/osuskin_n_o_e
 ### Links
 |Source|Ed's version|Standard|Optimized Version|
 |---|---|---|---|
-|GitHub|N/A|N/A|N/A|
+|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/Komori.-.NeastroelB.SeVIl.osk)|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/Komori.-.NeastroelB.SeVIl.osk)|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/Komori.-.NeastroelB.SeVIl.LOW.SPEC.osk)|
 |MediaFire|[Go to MediaFire](https://www.mediafire.com/file/u1vsyprb1d2bzi2/Komori_-_NeastroelB_%28SeVIl%29.osk/file)|N/A|[Go to MediaFire](http://www.mediafire.com/file/34l6jm52ddutlcu/Komori_-_NeastroelB_%2528SeVIl%2529_LOW_SPEC.osk/file)|
 |Google Drive|N/A|[Go to Google Drive](https://drive.google.com/file/d/1ZfSfl3zgLkNAJqC_0Skr22rtkTWyCz7Y/view)|N/A|
 |MEGA|N/A|N/A|[Go to MEGA](https://mega.nz/#!bq5WiCLb!9dhAjpPWNEgH7CpyZxAEKhv-4HZ2d30izio0FcRCic4)|N/A|
@@ -155,7 +155,7 @@ Credit: [Komori](https://www.reddit.com/r/OsuSkins/comments/bt3fdu/osuskin_n_o_e
 ### Links
 |Source|Standard|Optimized Version|
 |---|---|---|
-|GitHub|N/A|N/A|
+|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/Komori.-.MC.NOEL.VI.osk)|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/Komori.-.MC.NOEL.VI.LOW.SPEC.EDIT.osk)|
 |MEGA|[Go to MEGA](https://mega.nz/#!73xXXYBZ!iplvw4ch5YGrshMMfu2FloslWXNJypO4s2pXiWv_fJg)|[Go to MEGA](https://mega.nz/#!ttJw3YhR!1k3BPScF2cI7v9eF2Y_3h9FogUFzHqbOsCzC6KjFKA8)|
 
 ## Noel v5 Edit
@@ -174,7 +174,7 @@ Credit: [Komori](https://www.reddit.com/r/OsuSkins/comments/bt3fdu/osuskin_n_o_e
 ### Links
 |Source|Link|
 |---|---|
-|GitHub|N/A|
+|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/Komori.-.N.O.E.L.V.5.osk)|
 |Google Drive|[Go to Google Drive](https://drive.google.com/file/d/1JaDcgb0-QAfrNZ9TOYEr1h69LvyS0tYf/view)|
 
 ## - btmc - sora no method
@@ -192,7 +192,7 @@ Credit: [Luisina Designs](https://twitter.com/luisinadesign)
 ### Links
 |Source|Link|
 |---|---|
-|GitHub|N/A|
+|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/-.btmc.-.Noel.Sora.no.method.osk)|
 |Dropbox|[Go to Dropbox](https://www.dropbox.com/s/znlvvgkpjfxoh60/-%20btmc%20-%20Noel%20Sora%20no%20method.osk?dl=0)|
 
 ## owoTuna (Mathi)
@@ -216,7 +216,7 @@ Credit: [CPOL](https://www.reddit.com/r/OsuSkins/comments/c0j42n/owotuna_12_sd_h
 ### Links
 |Source|Link|
 |---|---|
-|GitHub|N/A|
+|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/-.owoTuna.1.4.Mathi.-.osk)|
 |osuck/OSU!SKINS|[Go to osuck/OSU!SKINS](http://skins.osuck.net/index.php?newsid=640)|
 
 ## heydt rafiswomb greenblue
@@ -238,7 +238,7 @@ Credit: [Freddie Benson](https://osu.ppy.sh/users/7342622)
 ### Links
 |Source|Link|
 |---|---|
-|GitHub|N/A|
+|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/heydt.rafiswomb.greenblue.osk)|
 |osuck/OSU!SKINS|[Go to osuck/OSU!SKINS](http://skins.osuck.net/index.php?newsid=468)|
 
 ## New Noel
@@ -260,7 +260,7 @@ Credit: [dlwnstns99](https://www.reddit.com/user/dlwnstns99/)
 ### Links
 |Source|Link|
 |---|---|
-|GitHub|N/A|
+|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/AS.-.Noel.2.osk)|
 |Google Drive|[Go to Google Drive](https://drive.google.com/file/d/1NCBIcqvq7QaLRJd3Qq2Arpg5iOMIEosE/view)|
 
 ## Anime Assemble - Noel
@@ -275,7 +275,7 @@ Credit: [dlwnstns99](https://www.reddit.com/user/dlwnstns99/)
 ### Links
 |Source|Link|Another Link|
 |---|---|---|
-|GitHub|N/A||
+|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/-.Noel.Chan.osk)||
 |MEGA|[Go to MEGA](https://mega.nz/file/KxpQgTbY#BzD2KvSYjaYI6aH4lMvHeQNuzhqBC2JfMbvDDi_32KQ)|[Go to MEGA](https://mega.nz/file/v4xjTAKC#OnlqJ0QUl0vIF_VuYUEgYRDee2iM0ePGLlTOnXXsvUk)|
 
 ## Minimal Weeb - Noel v1.3
@@ -290,7 +290,7 @@ Credit: [Hulbeh](https://osu.ppy.sh/users/3866848)
 ### Links
 |Source|Link|
 |---|---|
-|GitHub|N/A|
+|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/Minimal+Weeb+-+Noel+v1.3.osk)|
 |puu.sh|[Go to puu.sh](https://puu.sh/tbLbw/ba62b2d037.osk)|
 
 ## Minimal Weeb - Noel v1.2
@@ -316,7 +316,7 @@ Credit: [Hulbeh](https://www.reddit.com/r/OsuSkins/comments/5b1e61/minimal_weeb_
 ### Links
 |Source|Link|Another Link|
 |---|---|---|
-|GitHub|N/A||
+|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/Minimal+Weeb+-+Noel+v1.2.osk)||
 |puu.sh|[Go to puu.sh](https://puu.sh/s5OS4/e2031fe8b4.osk)|[Go to puu.sh](https://puu.sh/s5Qxm/4344166a10.osk)|
 
 ## \~Rainbow\~ v2 Prism Elements
@@ -331,7 +331,7 @@ Credit: Mix skin compiled by Ed
 ### Links
 |Source|Link|
 |---|---|
-|GitHub|N/A|
+|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/Rainbow.v2.Prism.Elements.osk)|
 |MediaFire|[Go to MediaFire](https://www.mediafire.com/file/suu196fecfqnyms/%257ERainbow%257E_v2_%2528Prism_Elements%2529.osk/file)|
 
 ## Rainbow skin
@@ -346,7 +346,7 @@ Credit: Mix skin compiled by Ed
 ### Links
 |Source|Link|
 |---|---|
-|GitHub|N/A|
+|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/Rainbow.osk)|
 |MediaFire|[Go to MediaFire](http://www.mediafire.com/file/oo8h0ykxyx5ydb5/~Rainbow~.osk)|
 
 ## Puzzles an Dragons
@@ -367,7 +367,7 @@ Credit: [G_a_L_E](https://www.reddit.com/r/OsuSkins/comments/34pknh/submittion_t
 ### Links
 |Source|Link|
 |---|---|
-|GitHub|N/A|
+|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/lifan.osk)|
 |MediaFire|[Go to MediaFire](http://www.mediafire.com/download/omhzbpxc8t85yhq/!_[_lifan_].osk)|
 
 ## ENE06
@@ -389,7 +389,7 @@ Credit: [Choilicious](https://www.reddit.com/r/OsuSkins/comments/3pqkht/ene06_sh
 ### Links
 |Source|Link|
 |---|---|
-|GitHub|N/A|
+|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/-+ENE06.01.osk)|
 |puu.sh|[Go to puu.sh](http://puu.sh/l0GqU.osk)|
 |Dropbox|[Go to Dropbox](https://www.dropbox.com/s/d8udeguaa4ucjx8/-%20ENE06.v01.osk)|
 
@@ -406,5 +406,5 @@ Credit: Mix skin compiled by Ed
 ### Links
 |Source|Link|
 |---|---|
-|GitHub|N/A|
+|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/BeasttrollMCs.Skin.v1.1.osk)|
 |MediaFire|[Go to MediaFire](https://www.mediafire.com/file/wfr5hvmi25rropi/BeasttrollMC%2527s_Skin_v1.1.osk/file)|
