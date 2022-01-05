@@ -318,7 +318,7 @@ Credit: [Hulbeh](https://www.reddit.com/r/OsuSkins/comments/5b1e61/minimal_weeb_
 |GitHub|[Download](link)|
 |puu.sh|[Go to puu.sh](https://puu.sh/s5OS4/e2031fe8b4.osk)|[Go to puu.sh](https://puu.sh/s5Qxm/4344166a10.osk)|
 
-## ~Rainbow~ v2 Prism Elements
+## \~Rainbow\~ v2 Prism Elements
 Credit: Mix skin compiled by Ed
 ### Screenshots
 <details>
