@@ -43,7 +43,7 @@ Credit: [BTMC](https://osu.ppy.sh/users/3171691), [JesusOmega](https://twitter.c
 #### Download
 |Source|Standard|DT|AMOGUS|Extra elements|
 |---|---|---|---|---|
-|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/-.BTMC.Freedom.Dive.osk)|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/-.DTMC.Freedom.Dive.osk)|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/AMONGUS.osk)|N/A|
+|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/-.BTMC.Freedom.Dive.osk)|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/-.DTMC.Freedom.Dive.osk)|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/AMONGUS.osk)||
 |Google Drive|[View in Google Drive](https://drive.google.com/drive/folders/1NytOsVVuJoYG4d57GZcbkggR65EkP6S9)|[View in Google Drive](https://drive.google.com/drive/folders/1NytOsVVuJoYG4d57GZcbkggR65EkP6S9)|[Download](https://drive.google.com/file/d/1ttEZV-JDFPUAhq1f9v-VM0oO7wXXeikp/view)|[View in Google Drive](https://drive.google.com/drive/folders/17AI1jflBfezjna8JKOhq3ce0WsCus40n)|
 
 #### Extras
