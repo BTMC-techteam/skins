@@ -133,7 +133,7 @@ Credit: [Komori](https://www.reddit.com/r/OsuSkins/comments/bt3fdu/osuskin_n_o_e
 ### Links
 |Source|Ed's version|Standard|Optimized Version|
 |---|---|---|---|
-|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/Komori.-.NeastroelB.SeVIl.osk)|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/Komori.-.NeastroelB.SeVIl.osk)|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/Komori.-.NeastroelB.SeVIl.LOW.SPEC.osk)|
+|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/Komori.-.NeastroelB.SeVIl.Ed.s.version.osk)|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/Komori.-.NeastroelB.SeVIl.osk)|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/Komori.-.NeastroelB.SeVIl.LOW.SPEC.osk)|
 |MediaFire|[Go to MediaFire](https://www.mediafire.com/file/u1vsyprb1d2bzi2/Komori_-_NeastroelB_%28SeVIl%29.osk/file)|N/A|[Go to MediaFire](http://www.mediafire.com/file/34l6jm52ddutlcu/Komori_-_NeastroelB_%2528SeVIl%2529_LOW_SPEC.osk/file)|
 |Google Drive|N/A|[Go to Google Drive](https://drive.google.com/file/d/1ZfSfl3zgLkNAJqC_0Skr22rtkTWyCz7Y/view)|N/A|
 |MEGA|N/A|N/A|[Go to MEGA](https://mega.nz/#!bq5WiCLb!9dhAjpPWNEgH7CpyZxAEKhv-4HZ2d30izio0FcRCic4)|N/A|
