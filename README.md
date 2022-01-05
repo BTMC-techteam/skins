@@ -78,8 +78,8 @@ ___
     <summary>JesusOmega: Planets (EZ)</summary>
     <img src="https://i.imgur.com/pUHfAG6.jpeg" title="JesusOmega: Planets (EZ) gameplay" alt="Skin screenshot of gameplay">
 </details>
-### Links
 
+### Links
 |Source|Standard|Varvalian and WhiteCat voices|
 |---|---------|----------|
 |GitHub|N/A|N/A|
