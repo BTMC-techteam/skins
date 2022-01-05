@@ -193,7 +193,7 @@ Credit: [Luisina Designs](https://twitter.com/luisinadesign)
 |Source|Link|
 |---|---|
 |GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/-.btmc.-.Noel.Sora.no.method.osk)|
-|Dropbox|[Go to Dropbox](https://www.dropbox.com/s/znlvvgkpjfxoh60/-%20btmc%20-%20Noel%20Sora%20no%20method.osk?dl=0)|
+|Dropbox|[Go to Dropbox](https://www.dropbox.com/s/znlvvgkpjfxoh60/-%20btmc%20-%20Noel%20Sora%20no%20method.osk)|
 
 ## owoTuna (Mathi)
 Credit: [CPOL](https://www.reddit.com/r/OsuSkins/comments/c0j42n/owotuna_12_sd_hd_43_169_1610_std/)
