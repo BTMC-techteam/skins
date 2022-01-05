@@ -157,6 +157,7 @@ Credit: [Komori](https://www.reddit.com/r/OsuSkins/comments/bt3fdu/osuskin_n_o_e
 |---|---|---|
 |GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/Komori.-.MC.NOEL.VI.osk)|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/Komori.-.MC.NOEL.VI.LOW.SPEC.EDIT.osk)|
 |MEGA|[Go to MEGA](https://mega.nz/#!73xXXYBZ!iplvw4ch5YGrshMMfu2FloslWXNJypO4s2pXiWv_fJg)|[Go to MEGA](https://mega.nz/#!ttJw3YhR!1k3BPScF2cI7v9eF2Y_3h9FogUFzHqbOsCzC6KjFKA8)|
+|Google Drive|[Go to Google Drive](https://drive.google.com/file/d/1EY9z-8_QG7BAoZ9Ui_dMOx52UudRhHA2/view)|N/A|
 
 ## Noel v5 Edit
 Credit: [Komori](https://www.reddit.com/r/OsuSkins/comments/bt3fdu/osuskin_n_o_e_l_v_5stdsdhd/)
