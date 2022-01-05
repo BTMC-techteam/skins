@@ -18,14 +18,14 @@ Credit: [BTMC](https://osu.ppy.sh/users/3171691), [JesusOmega](https://twitter.c
 <img src="https://i.ppy.sh/0ba6487b6065f141d0fd9024e958ec2331893baa/68747470733a2f2f692e696d6775722e636f6d2f4559495175695a2e706e67" title="BTMC: FREEDOM DiVE section fail" alt="Skin screenshot of section fail">
 <img src="https://i.ppy.sh/e6e9d9c540fa3bd28b7191dc0ea31381dff76b9c/68747470733a2f2f692e696d6775722e636f6d2f6f7130327850502e6a7067" title="BTMC: FREEDOM DiVE pause screen" alt="Skin screenshot of pause screen">
 <img src="https://i.imgur.com/PbIJINu.png" title="BTMC: FREEDOM DiVE screenshot fail screen" alt="Skin screenshot of fail screen">
-<img src="https://i.ppy.sh/c50aead9bf793aa9366299b4727a4d262f8e0116/68747470733a2f2f692e696d6775722e636f6d2f4d647441526b5a2e706e67" title="BTMC: FREEDOM DiVE grey SS ranking letter" alt="Skin screenshot of grey SS ranking letter">
-<img src="https://i.ppy.sh/b47a736eb52b0eccb239f9582c943dd862afb5be/68747470733a2f2f692e696d6775722e636f6d2f594d3158666a302e706e67" title="BTMC: FREEDOM DiVE grey S ranking letter" alt="Skin screenshot of grey S ranking letter">
-<img src="https://i.ppy.sh/3caa267b958ed82261eb6e0d6e59e05b9451cd20/68747470733a2f2f692e696d6775722e636f6d2f7431397244556c2e706e67" title="BTMC: FREEDOM DiVE SS ranking letter" alt="Skin screenshot of SS ranking letter">
-<img src="https://i.ppy.sh/ca7193a173f0aba29e20b761ab2d95e961eda40f/68747470733a2f2f692e696d6775722e636f6d2f42554e666f50422e706e67" title="BTMC: FREEDOM DiVE S ranking letter" alt="Skin screenshot of S ranking letter">
-<img src="https://i.ppy.sh/76f47c619a7c61afa482ede7b3fe1b19b4b53e24/68747470733a2f2f692e696d6775722e636f6d2f6b4134536b704c2e706e67" title="BTMC: FREEDOM DiVE A ranking letter" alt="Skin screenshot of A ranking letter">
-<img src="https://i.ppy.sh/b801907325848fc51caf10eb056dd1deb132a4c5/68747470733a2f2f692e696d6775722e636f6d2f7a664e443050782e706e67" title="BTMC: FREEDOM DiVE B ranking letter" alt="Skin screenshot of B ranking letter">
-<img src="https://i.ppy.sh/105c80ba49c0621b02aa26068788afa71981c96b/68747470733a2f2f692e696d6775722e636f6d2f746550563337632e706e67" title="BTMC: FREEDOM DiVE C ranking letter" alt="Skin screenshot of C ranking letter">
-<img src="https://i.ppy.sh/452c363966b568a883d8958531309b78d0279d43/68747470733a2f2f692e696d6775722e636f6d2f3968386550444e2e706e67" title="BTMC: FREEDOM DiVE D ranking letter" alt="Skin screenshot of D ranking letter">
+<img src="https://i.ppy.sh/c50aead9bf793aa9366299b4727a4d262f8e0116/68747470733a2f2f692e696d6775722e636f6d2f4d647441526b5a2e706e67" title="BTMC: FREEDOM DiVE ranking panel (grey SS HD)" alt="Skin screenshot of ranking panel (grey SS HD)">
+<img src="https://i.ppy.sh/b47a736eb52b0eccb239f9582c943dd862afb5be/68747470733a2f2f692e696d6775722e636f6d2f594d3158666a302e706e67" title="BTMC: FREEDOM DiVE ranking panel (grey S HD)" alt="Skin screenshot of ranking panel (grey S HD)">
+<img src="https://i.ppy.sh/3caa267b958ed82261eb6e0d6e59e05b9451cd20/68747470733a2f2f692e696d6775722e636f6d2f7431397244556c2e706e67" title="BTMC: FREEDOM DiVE ranking panel (SS)" alt="Skin screenshot of ranking panel (SS)">
+<img src="https://i.ppy.sh/ca7193a173f0aba29e20b761ab2d95e961eda40f/68747470733a2f2f692e696d6775722e636f6d2f42554e666f50422e706e67" title="BTMC: FREEDOM DiVE ranking panel (S)" alt="Skin screenshot of ranking panel (S)">
+<img src="https://i.ppy.sh/76f47c619a7c61afa482ede7b3fe1b19b4b53e24/68747470733a2f2f692e696d6775722e636f6d2f6b4134536b704c2e706e67" title="BTMC: FREEDOM DiVE ranking panel (A)" alt="Skin screenshot of ranking panel (A)">
+<img src="https://i.ppy.sh/b801907325848fc51caf10eb056dd1deb132a4c5/68747470733a2f2f692e696d6775722e636f6d2f7a664e443050782e706e67" title="BTMC: FREEDOM DiVE ranking panel (B)" alt="Skin screenshot of ranking panel (B)">
+<img src="https://i.ppy.sh/105c80ba49c0621b02aa26068788afa71981c96b/68747470733a2f2f692e696d6775722e636f6d2f746550563337632e706e67" title="BTMC: FREEDOM DiVE ranking panel (C)" alt="Skin screenshot of ranking panel (C)">
+<img src="https://i.ppy.sh/452c363966b568a883d8958531309b78d0279d43/68747470733a2f2f692e696d6775722e636f6d2f3968386550444e2e706e67" title="BTMC: FREEDOM DiVE ranking panel (D)" alt="Skin screenshot of ranking panel (D)">
 </details>
 
 <details>
