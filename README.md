@@ -99,7 +99,7 @@ Credit: Mix Skin
 |Source|Link|
 |---|---|
 |GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/shigeskin.osk)|
-|Dropbox|[Download](https://www.dropbox.com/s/s4a2kxm4ei85kwy/shigeskin.osk)|
+|Dropbox|[Go to Dropbox](https://www.dropbox.com/s/s4a2kxm4ei85kwy/shigeskin.osk)|
 
 ## Default Plus (with minor edits)
 Credit: [LegitWubz](https://old.reddit.com/r/OsuSkins/comments/ej3htj/osu_default_skin_plus/)
