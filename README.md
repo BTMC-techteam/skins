@@ -1,3 +1,5 @@
+# Genshin streamer's osu! skins document
+
 # Current skin
 ## BTMC: FREEDOM DiVE
 Credit: [BTMC](https://osu.ppy.sh/users/3171691), [JesusOmega](https://twitter.com/JesusOmega266), [TofuMang](https://twitter.com/tofumang_), [MyniMyxii](https://twitter.com/MyniMyxii), [Kazu](https://twitter.com/IsThatKazu)
