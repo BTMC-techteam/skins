@@ -1,3 +1,5 @@
+name: BTMC Skins
+markdown: GFM
 plugins:
   - jekyll-relative-links
 relative_links:
