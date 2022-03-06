@@ -1,4 +1,5 @@
 ---
+title: Genshin streamer's osu! skins document
 ---
 
 
