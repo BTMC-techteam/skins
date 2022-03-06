@@ -2,4 +2,6 @@ description: Find all of BTMC's skins, both past and present.
 markdown: GFM
 include:
   - README.md
-remote_theme:  lewismiddleton/cayman-dark 
+plugins:
+- jekyll-remote-theme
+remote_theme: pages-themes/cayman@v0.2.0
