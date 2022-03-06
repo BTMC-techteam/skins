@@ -2,4 +2,4 @@ name: BTMC Skins
 markdown: GFM
 include:
   - README.md
-theme: jekyll-theme-cayman
+remote_theme:  lewismiddleton/cayman-dark 
