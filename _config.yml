@@ -4,4 +4,4 @@ description: Find all of BTMC's skins, both past and present.
 plugins:
 - jekyll-remote-theme
 - jekyll-readme-index
-remote_theme: KTibow/cayman-dark 
+remote_theme: lewismiddleton/cayman-dark
