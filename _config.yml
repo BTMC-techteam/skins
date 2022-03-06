@@ -1,4 +1,5 @@
 markdown: GFM
+title: Genshin streamer's osu! skins document
 description: Find all of BTMC's skins, both past and present.
 plugins:
 - jekyll-remote-theme
