@@ -408,3 +408,22 @@ Credit: Mix skin compiled by Ed
 |---|---|
 |GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/BeasttrollMCs.Skin.v1.1.osk)|
 |MediaFire|[Go to MediaFire](https://www.mediafire.com/file/wfr5hvmi25rropi/BeasttrollMC%2527s_Skin_v1.1.osk/file)|
+
+## Seoul++ 16-9
+Credit: [Seouless](https://osu.ppy.sh/users/3328676) + Various Artists
+
+### Screenshots
+<details>
+    <summary>Click to expand</summary>
+    <img src="https://i.imgur.com/zTQTZ4S.jpg" title="Seoul++ 16-9 mod select" alt="Skin screenshot of mod select">
+    <img src="https://i.imgur.com/obNv8c0.jpg" title="Seoul++ 16-9 song select" alt="Skin screenshot of song select">
+    <img src="https://i.imgur.com/5r2urO7.jpg" title="Seoul++ 16-9 gameplay with spinner" alt="Skin screenshot of gameplay with spinner">
+    <img src="https://i.imgur.com/CQ55WaQ.jpg" title="Seoul++ 16-9 pause screen" alt="Skin screenshot of pause screen">
+    <img src="https://i.imgur.com/WmrLFUv.jpg" title="Seoul++ 16-9 gameplay" alt="Skin screenshot of gameplay">
+</details>
+
+### Links
+|Source|Link|
+|---|---|
+|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/download/skins/Seoul++.16-9.osk)|
+|Google Drive|[Go to Google Drive](https://drive.google.com/file/d/1qtTYbaNBRZlpRE6M0alSMMOIjF2UGIsH/view)|
