@@ -1,4 +1,4 @@
-## BTMC: FREEDOM DiVE  (Current skin)
+## BTMC: FREEDOM DiVE  (Current skin, with edited hitsounds)
 Credit: [BTMC](https://osu.ppy.sh/users/3171691), [JesusOmega](https://twitter.com/JesusOmega266), [TofuMang](https://twitter.com/tofumang_), [MyniMyxii](https://twitter.com/MyniMyxii), [Kazu](https://twitter.com/IsThatKazu)
 ### Screenshots (click to expand)
 <a href="https://www.youtube.com/watch?feature=player_embedded&v=K6DJHNimuCk" target="_blank">
@@ -40,16 +40,34 @@ Credit: [BTMC](https://osu.ppy.sh/users/3171691), [JesusOmega](https://twitter.c
 ### Links
 
 #### Download
-|Source|Standard|DT|AMOGUS|Extra elements|
-|---|---|---|---|---|
-|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/-.BTMC.Freedom.Dive.osk)|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/-.DTMC.Freedom.Dive.osk)|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/AMONGUS.osk)||
-|Google Drive|[View in Google Drive](https://drive.google.com/drive/folders/1NytOsVVuJoYG4d57GZcbkggR65EkP6S9)|[View in Google Drive](https://drive.google.com/drive/folders/1NytOsVVuJoYG4d57GZcbkggR65EkP6S9)|[Download](https://drive.google.com/file/d/1ttEZV-JDFPUAhq1f9v-VM0oO7wXXeikp/view)|[View in Google Drive](https://drive.google.com/drive/folders/17AI1jflBfezjna8JKOhq3ce0WsCus40n)|
+|Source|Standard|Standard (edited hitsounds)|DT|AMOGUS|Extra elements|
+|---|---|---|---|---|---|
+|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/-.BTMC.Freedom.Dive.osk)|[Download](https://github.com/BTMC-techteam/skins/releases/download/skins/-.BTMC.Freedom.Dive.-.Custom.hitsounds.osk)|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/-.DTMC.Freedom.Dive.osk)|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/AMONGUS.osk)||
+|Google Drive|[View in Google Drive](https://drive.google.com/drive/folders/1NytOsVVuJoYG4d57GZcbkggR65EkP6S9)| [View in Google Drive](https://drive.google.com/file/d/1VSTLOQ9h4ZdTO3qtZUQ0evgzXrNgJjA1) |[View in Google Drive](https://drive.google.com/drive/folders/1NytOsVVuJoYG4d57GZcbkggR65EkP6S9)|[Download](https://drive.google.com/file/d/1ttEZV-JDFPUAhq1f9v-VM0oO7wXXeikp/view)|[View in Google Drive](https://drive.google.com/drive/folders/17AI1jflBfezjna8JKOhq3ce0WsCus40n)|
+
+* Edited hitsounds taken from [- — Ahri — - [ SpiritBlossom Collection ]](https://osu.ppy.sh/community/forums/topics/1505937)
 
 #### Extras
 * Extra credits, and details in the [osu! forums thread](https://osu.ppy.sh/community/forums/topics/1293207)
 
 ___
 # Previous skins
+## -#KW-! If there was an endpoint. _by [- Koshiin -](https://osu.ppy.sh/users/19135423)_
+### Screenshots
+*Ask a maintainer to add screenshots to this document*
+
+In the meantime, visit the [gallery posted by the skin author!](https://imgur.com/gallery/ND2K0JJ)
+### Links
+#### Download
+|Source|Standard|
+|------|--------|
+|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/download/skins/-.KW-.If.there.was.an.endpoint.osk)|
+|Google Drive|[View on Google Drive](https://drive.google.com/file/d/1xkpjm2DH8yEfcfYrEl7J6c7QW9jmHIsL/view?usp=sharing)|
+|Mediafire|[View on Mediafire](https://www.mediafire.com/file/gvc6ee11q8zzq4l/-%2523KW-%2521_If_there_was_an_endpoint..osk/file)|
+#### Extras
+* Extra credits and details in the [osu! forums thread](https://osu.ppy.sh/community/forums/topics/1672096)
+
+
 ## JesusOmega: Planets (With minor edits) _by [JesusOmega](https://www.reddit.com/r/OsuSkins/comments/hb47v6/jesusomegaplanets_hdsd_169_all_mods/)_
 ### Screenshots
 <details>
