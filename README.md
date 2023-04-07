@@ -40,10 +40,12 @@ Credit: [BTMC](https://osu.ppy.sh/users/3171691), [JesusOmega](https://twitter.c
 ### Links
 
 #### Download
-|Source|Standard|DT|AMOGUS|Extra elements|
-|---|---|---|---|---|
-|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/-.BTMC.Freedom.Dive.osk)|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/-.DTMC.Freedom.Dive.osk)|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/AMONGUS.osk)||
-|Google Drive|[View in Google Drive](https://drive.google.com/drive/folders/1NytOsVVuJoYG4d57GZcbkggR65EkP6S9)|[View in Google Drive](https://drive.google.com/drive/folders/1NytOsVVuJoYG4d57GZcbkggR65EkP6S9)|[Download](https://drive.google.com/file/d/1ttEZV-JDFPUAhq1f9v-VM0oO7wXXeikp/view)|[View in Google Drive](https://drive.google.com/drive/folders/17AI1jflBfezjna8JKOhq3ce0WsCus40n)|
+|Source|Standard|Standard (custom hitsounds)|DT|AMOGUS|Extra elements|
+|---|---|---|---|---|---|
+|GitHub|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/-.BTMC.Freedom.Dive.osk)|[Download](https://github.com/BTMC-techteam/skins/releases/download/skins/-.BTMC.Freedom.Dive.-.Custom.hitsounds.osk)|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/-.DTMC.Freedom.Dive.osk)|[Download](https://github.com/BTMC-techteam/skins/releases/latest/download/AMONGUS.osk)||
+|Google Drive|[View in Google Drive](https://drive.google.com/drive/folders/1NytOsVVuJoYG4d57GZcbkggR65EkP6S9)| [View in Google Drive](https://drive.google.com/file/d/1VSTLOQ9h4ZdTO3qtZUQ0evgzXrNgJjA1) |[View in Google Drive](https://drive.google.com/drive/folders/1NytOsVVuJoYG4d57GZcbkggR65EkP6S9)|[Download](https://drive.google.com/file/d/1ttEZV-JDFPUAhq1f9v-VM0oO7wXXeikp/view)|[View in Google Drive](https://drive.google.com/drive/folders/17AI1jflBfezjna8JKOhq3ce0WsCus40n)|
+
+* Custom hitsounds from [- — Ahri — - [ SpiritBlossom Collection ]](https://osu.ppy.sh/community/forums/topics/1505937)
 
 #### Extras
 * Extra credits, and details in the [osu! forums thread](https://osu.ppy.sh/community/forums/topics/1293207)
