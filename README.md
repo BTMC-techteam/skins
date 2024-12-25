@@ -7,26 +7,26 @@ Credit: [Spoo](https://osu.ppy.sh/users/11805037), [AREKK](https://osu.ppy.sh/us
 </a>
 <details>
  <summary>Menu</summary>
-  <img src="https://i.imgur.com/Nz0UHQD.jpeg" title="FREEDOM DiVE REiMAGINED: song select">
-  <img src="https://i.imgur.com/El3PpQ7.jpeg" title="FREEDOM DiVE REiMAGINED: mod icons">
-  <img src="https://i.imgur.com/X4WZBs6.jpeg" title="FREEDOM DiVE REiMAGINED: pause menu">
-  <img src="https://i.imgur.com/eU6E9Sb.jpeg" title="FREEDOM DiVE REiMAGINED: fail menu">
+  <img src="https://i.imgur.com/Nz0UHQD.jpeg" title="FREEDOM DiVE REiMAGINED: song select" alt="screenshot of the song select screen">
+  <img src="https://i.imgur.com/El3PpQ7.jpeg" title="FREEDOM DiVE REiMAGINED: mod icons" alt="screenshot of the mods selection menu showing all the mod icons">
+  <img src="https://i.imgur.com/X4WZBs6.jpeg" title="FREEDOM DiVE REiMAGINED: pause menu" alt="screenshot of the pause menu">
+  <img src="https://i.imgur.com/eU6E9Sb.jpeg" title="FREEDOM DiVE REiMAGINED: fail menu" alt="screenshot of the fail pause menu">
 </details>
 <details>
   <summary>Gameplay</summary>
-  <img src="https://i.imgur.com/jXEm6TH.jpeg" title="FREEDOM DiVE REiMAGINED: gameplay elements">
-  <img src="https://i.imgur.com/XekC31P.jpeg" title="FREEDOM DiVE REiMAGINED: gameplay">
+  <img src="https://i.imgur.com/jXEm6TH.jpeg" title="FREEDOM DiVE REiMAGINED: gameplay elements" alt="screenshot of all the gameplay elements laid out on the play field">
+  <img src="https://i.imgur.com/XekC31P.jpeg" title="FREEDOM DiVE REiMAGINED: gameplay" alt="screenshot of actual gameplay with a few notes on the play field">
 </details>
 <details>
   <summary>Ranking icons</summary>
-  <img src="https://i.imgur.com/Y888ezt.jpeg" title="FREEDOM DiVE REiMAGINED: rank d">
-  <img src="https://i.imgur.com/wNbIFuw.jpeg" title="FREEDOM DiVE REiMAGINED: rank c">
-  <img src="https://i.imgur.com/hVt1bLO.jpeg" title="FREEDOM DiVE REiMAGINED: rank b">
-  <img src="https://i.imgur.com/0xfvrj7.jpeg" title="FREEDOM DiVE REiMAGINED: rank a">
-  <img src="https://i.imgur.com/unwRq87.jpeg" title="FREEDOM DiVE REiMAGINED: rank s">
-  <img src="https://i.imgur.com/BdowZO0.jpeg" title="FREEDOM DiVE REiMAGINED: rank s+">
-  <img src="https://i.imgur.com/biDHiqC.jpeg" title="FREEDOM DiVE REiMAGINED: rank ss">
-  <img src="https://i.imgur.com/R6yOkAk.jpeg" title="FREEDOM DiVE REiMAGINED: rank ss+">
+  <img src="https://i.imgur.com/Y888ezt.jpeg" title="FREEDOM DiVE REiMAGINED: rank d" alt="screenshot of the ranking screen showing a rank of D">
+  <img src="https://i.imgur.com/wNbIFuw.jpeg" title="FREEDOM DiVE REiMAGINED: rank c" alt="screenshot of the ranking screen showing a rank of C">
+  <img src="https://i.imgur.com/hVt1bLO.jpeg" title="FREEDOM DiVE REiMAGINED: rank b" alt="screenshot of the ranking screen showing a rank of B">
+  <img src="https://i.imgur.com/0xfvrj7.jpeg" title="FREEDOM DiVE REiMAGINED: rank a" alt="screenshot of the ranking screen showing a rank of A">
+  <img src="https://i.imgur.com/unwRq87.jpeg" title="FREEDOM DiVE REiMAGINED: rank s" alt="screenshot of the ranking screen showing a rank of S">
+  <img src="https://i.imgur.com/BdowZO0.jpeg" title="FREEDOM DiVE REiMAGINED: rank s+" alt="screenshot of the ranking screen showing a rank of S with hidden">
+  <img src="https://i.imgur.com/biDHiqC.jpeg" title="FREEDOM DiVE REiMAGINED: rank ss" alt="screenshot of the ranking screen showing a rank of SS">
+  <img src="https://i.imgur.com/R6yOkAk.jpeg" title="FREEDOM DiVE REiMAGINED: rank ss+" alt="screenshot of the ranking screen showing a rank of SS with hidden">
 </details>
 
 ### Links
