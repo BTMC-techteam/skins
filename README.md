@@ -33,11 +33,13 @@ Credit: [Spoo](https://osu.ppy.sh/users/11805037), [AREKK](https://osu.ppy.sh/us
 #### [Forum post](https://osu.ppy.sh/community/forums/topics/2019099?n=1)
 
 #### Download
-|Source|Standard|
-|---|---|
-|GitHub|Coming soon|
-|Google Drive|[View in Google Drive](https://drive.google.com/file/d/1UPw6kREOJDC6l_jv88VKNDl803B87i66/view)|
 
+| Source       | Standard                                                                                                   |
+|--------------|------------------------------------------------------------------------------------------------------------|
+| GitHub       | [Download](https://github.com/BTMC-techteam/skins/releases/download/skins/-.S.FREEDOM.DiVE.REiMAGINED.osk) |
+| Google Drive | [View in Google Drive](https://drive.google.com/file/d/1UPw6kREOJDC6l_jv88VKNDl803B87i66/view)             |
+
+<sub>Links last updated: 2024-12-25 06:41 UTC. See [forum post](https://osu.ppy.sh/community/forums/topics/2019099?n=1) for most up to date links</sub>
 
 ## BTMC: FREEDOM DiVE  (with edited hitsounds)
 Credit: [BTMC](https://osu.ppy.sh/users/3171691), [JesusOmega](https://twitter.com/JesusOmega266), [TofuMang](https://twitter.com/tofumang_), [MyniMyxii](https://twitter.com/MyniMyxii), [Kazu](https://twitter.com/IsThatKazu)
