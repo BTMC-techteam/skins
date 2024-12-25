@@ -6,7 +6,27 @@ Credit: [Spoo](https://osu.ppy.sh/users/11805037), [AREKK](https://osu.ppy.sh/us
   Video showcase
 </a>
 <details>
- Coming soon
+ <summary>Menu</summary>
+  <img src="https://i.imgur.com/Nz0UHQD.jpeg" title="FREEDOM DiVE REiMAGINED: song select">
+  <img src="https://i.imgur.com/El3PpQ7.jpeg" title="FREEDOM DiVE REiMAGINED: mod icons">
+  <img src="https://i.imgur.com/X4WZBs6.jpeg" title="FREEDOM DiVE REiMAGINED: pause menu">
+  <img src="https://i.imgur.com/eU6E9Sb.jpeg" title="FREEDOM DiVE REiMAGINED: fail menu">
+</details>
+<details>
+  <summary>Gameplay</summary>
+  <img src="https://i.imgur.com/jXEm6TH.jpeg" title="FREEDOM DiVE REiMAGINED: gameplay elements">
+  <img src="https://i.imgur.com/XekC31P.jpeg" title="FREEDOM DiVE REiMAGINED: gameplay">
+</details>
+<details>
+  <summary>Ranking icons</summary>
+  <img src="https://i.imgur.com/Y888ezt.jpeg" title="FREEDOM DiVE REiMAGINED: rank d">
+  <img src="https://i.imgur.com/wNbIFuw.jpeg" title="FREEDOM DiVE REiMAGINED: rank c">
+  <img src="https://i.imgur.com/hVt1bLO.jpeg" title="FREEDOM DiVE REiMAGINED: rank b">
+  <img src="https://i.imgur.com/0xfvrj7.jpeg" title="FREEDOM DiVE REiMAGINED: rank a">
+  <img src="https://i.imgur.com/unwRq87.jpeg" title="FREEDOM DiVE REiMAGINED: rank s">
+  <img src="https://i.imgur.com/BdowZO0.jpeg" title="FREEDOM DiVE REiMAGINED: rank s+">
+  <img src="https://i.imgur.com/biDHiqC.jpeg" title="FREEDOM DiVE REiMAGINED: rank ss">
+  <img src="https://i.imgur.com/R6yOkAk.jpeg" title="FREEDOM DiVE REiMAGINED: rank ss+">
 </details>
 
 ### Links
