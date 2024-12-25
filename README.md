@@ -1,4 +1,25 @@
-## BTMC: FREEDOM DiVE  (Current skin, with edited hitsounds)
+## - {S} FREEDOM DiVE REiMAGINED (Current skin) _by [Spoo](https://osu.ppy.sh/users/11805037)_
+Credit: [Spoo](https://osu.ppy.sh/users/11805037), [AREKK](https://osu.ppy.sh/users/16085078), [XYREXX](https://osu.ppy.sh/users/25547269)
+
+### Screeenshots (click to expand)
+<a href="https://www.youtube.com/watch?feature=player_embedded&v=8Q0OOo4dLvI" target="_blank">
+  Video showcase
+</a>
+<details>
+ Coming soon
+</details>
+
+### Links
+#### [Forum post](https://osu.ppy.sh/community/forums/topics/2019099?n=1)
+
+#### Download
+|Source|Standard|
+|---|---|
+|GitHub|Coming soon|
+|Google Drive|[View in Google Drive](https://drive.google.com/file/d/1UPw6kREOJDC6l_jv88VKNDl803B87i66/view)|
+
+
+## BTMC: FREEDOM DiVE  (with edited hitsounds)
 Credit: [BTMC](https://osu.ppy.sh/users/3171691), [JesusOmega](https://twitter.com/JesusOmega266), [TofuMang](https://twitter.com/tofumang_), [MyniMyxii](https://twitter.com/MyniMyxii), [Kazu](https://twitter.com/IsThatKazu)
 ### Screenshots (click to expand)
 <a href="https://www.youtube.com/watch?feature=player_embedded&v=K6DJHNimuCk" target="_blank">
