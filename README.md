@@ -37,7 +37,7 @@ Credit: [Spoo](https://osu.ppy.sh/users/11805037), [AREKK](https://osu.ppy.sh/us
 | Source       | Standard                                                                                                   |
 |--------------|------------------------------------------------------------------------------------------------------------|
 | GitHub       | [Download](https://github.com/BTMC-techteam/skins/releases/download/skins/-.S.FREEDOM.DiVE.REiMAGINED.osk) |
-| Google Drive | [View in Google Drive](https://drive.google.com/file/d/1UPw6kREOJDC6l_jv88VKNDl803B87i66/view)             |
+| Google Drive | [View in Google Drive](https://drive.google.com/file/d/1SjztJYIHm3J0vvJLU5vcB9I39ivURdBs/view)             |
 
 <sub>Links last updated: 2024-12-25 06:41 UTC. See [forum post](https://osu.ppy.sh/community/forums/topics/2019099?n=1) for most up to date links</sub>
 
